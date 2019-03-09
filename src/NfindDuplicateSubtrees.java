@@ -4,22 +4,16 @@
 //import java.util.List;
 //import java.util.Map;
 //
-//class TreeNode {
-//     int val;
-//     TreeNode left;
-//     TreeNode right;
-//     TreeNode(int x) { val = x; }
-//}
-//
 //
 //class NfindDuplicateSubtrees {
 //    public List<TreeNode> findDuplicateSubtrees(TreeNode root) {
-//        Map<TreeNode, Integer> map = new HashMap<>();
-//
-//
+//        return isDuplicate(root, root);
 //    }
 //
-//    private void visit(TreeNode root, Map<TreeNode, Integer> map){
-//        if ()
+//    private boolean isDuplicate(TreeNode t1, TreeNode t2){
+//        if (t1.val != t2.val)
+//            return false;
+//        if (t1.right == t2.left && t1.left == t2.right && t1.val == t2.val)
+//            return true;
 //    }
 //}
