@@ -1,7 +1,7 @@
 package src;
 
 class NfindPeakElement {
-    public int findPeakElement(int[] nums) {
+    public int findPeakElement1(int[] nums) {
         if (nums.length == 1)
             return 0;
 
@@ -10,6 +10,7 @@ class NfindPeakElement {
 
         if (nums[0] > nums[1])
             return 0;
+
         if (nums[nums.length - 1] > nums[nums.length - 2])
             return nums.length - 1;
 
@@ -26,6 +27,31 @@ class NfindPeakElement {
             else
                 j = mid;
         }
+        return -1;
+    }
+
+    public int findPeakElement(int[] nums){
+
+        if (nums.length == 1)
+            return 0;
+
+        if (nums[0] > nums[1])
+            return 0;
+
+        if (nums[nums.length - 1] > nums[nums.length - 2])
+            return nums.length - 1;
+
+        int left=0, right = nums.length - 1;
+
+        while (left + 1 < right){
+            int mid = left + (right - left) / 2;
+            if (nums[mid - 1] < nums[mid] && nums[mid] > nums[mid + 1])
+                return mid;
+            else if (nums[mid] > nums[mid - 1])
+                left = mid;
+            else
+                right = mid;
+        }
 
         return -1;
     }
@@ -37,7 +63,9 @@ class NfindPeakElement {
         int[] nums = {1,2,3,1};
         int[] nums1 = {2,1};
 
-//        System.out.println(s.findPeakElement(nums));
+        System.out.println(s.findPeakElement(nums));
+        System.out.println(s.findPeakElement1(nums));
         System.out.println(s.findPeakElement(nums1));
+        System.out.println(s.findPeakElement1(nums1));
     }
 }

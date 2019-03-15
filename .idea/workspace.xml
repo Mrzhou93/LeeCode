@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4dc496a-fb38-426b-9489-bd8983cdc099" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/N153findMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N153findMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/N162findPeakElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N162findPeakElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/N167twosum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N167twosum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/N349intersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N349intersection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/N350intersect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N350intersect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/NsearchRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NsearchRange.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,23 +30,23 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="242" />
+          <entry key="java" value="256" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="242" />
+          <entry key="JAVA" value="256" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="20" />
-          <entry key="java" value="40190" />
+          <entry key="java" value="45694" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="40190" />
+          <entry key="JAVA" value="45694" />
           <entry key="PLAIN_TEXT" value="20" />
         </counts>
       </usages-collector>
@@ -49,11 +54,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/N167twosum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="66" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/NfindDuplicate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/NsearchRange.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+            <state relative-caret-position="-173">
+              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -83,18 +106,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Nflatten.java" />
-        <option value="$PROJECT_DIR$/src/NrotateRight.java" />
-        <option value="$PROJECT_DIR$/src/N705MyHashSet.java" />
-        <option value="$PROJECT_DIR$/src/NMyHashMap.java" />
-        <option value="$PROJECT_DIR$/src/N706MyHashMap.java" />
-        <option value="$PROJECT_DIR$/src/N0test.java" />
-        <option value="$PROJECT_DIR$/src/NcontainsDuplicate.java" />
-        <option value="$PROJECT_DIR$/src/N217containsDuplicate.java" />
-        <option value="$PROJECT_DIR$/src/N136SingleNumber.java" />
-        <option value="$PROJECT_DIR$/src/Nintersection.java" />
         <option value="$PROJECT_DIR$/src/NisHappy.java" />
-        <option value="$PROJECT_DIR$/src/N167twosum.java" />
         <option value="$PROJECT_DIR$/src/Nissomorphic.java" />
         <option value="$PROJECT_DIR$/src/NfindRestaurant.java" />
         <option value="$PROJECT_DIR$/src/NfirstUniqChar.java" />
@@ -132,8 +144,19 @@
         <option value="$PROJECT_DIR$/src/Nsearch.java" />
         <option value="$PROJECT_DIR$/src/NfirstBadVersion.java" />
         <option value="$PROJECT_DIR$/src/NfindPeakElement.java" />
-        <option value="$PROJECT_DIR$/src/NfindMin.java" />
+        <option value="$PROJECT_DIR$/src/NfindClosestElements.java" />
+        <option value="$PROJECT_DIR$/src/N658findClosestElements.java" />
+        <option value="$PROJECT_DIR$/src/N162findPeakElement.java" />
         <option value="$PROJECT_DIR$/src/NsearchRange.java" />
+        <option value="$PROJECT_DIR$/src/NisPerfectSquare.java" />
+        <option value="$PROJECT_DIR$/src/N367isPerfectSquare.java" />
+        <option value="$PROJECT_DIR$/src/NnextGreatestLetter.java" />
+        <option value="$PROJECT_DIR$/src/N153findMin.java" />
+        <option value="$PROJECT_DIR$/src/NfindMin.java" />
+        <option value="$PROJECT_DIR$/src/N349intersection.java" />
+        <option value="$PROJECT_DIR$/src/N350intersect.java" />
+        <option value="$PROJECT_DIR$/src/N167twosum.java" />
+        <option value="$PROJECT_DIR$/src/NfindDuplicate.java" />
       </list>
     </option>
   </component>
@@ -143,7 +166,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="2211" />
     <option name="y" value="11" />
     <option name="width" value="1936" />
@@ -169,12 +192,6 @@
               <item name="LeeCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeeCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeeCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="N704search.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -186,7 +203,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552463233328" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1552661274704" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -206,9 +223,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NsearchRange">
-    <configuration name="NfindMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.NfindMin" />
+  <component name="RunManager" selected="Application.NfindDuplicate">
+    <configuration name="N167twosum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.N167twosum" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
@@ -220,8 +237,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NfindPeakElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.NfindPeakElement" />
+    <configuration name="N1findMin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.N1findMin" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
@@ -233,8 +250,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NmySqrt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.NmySqrt" />
+    <configuration name="NfindDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.NfindDuplicate" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
@@ -246,8 +263,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nsearch1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Nsearch1" />
+    <configuration name="Nintersect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Nintersect" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
@@ -259,8 +276,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NsearchRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.NsearchRange" />
+    <configuration name="Nintersection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Nintersection" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
@@ -273,19 +290,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NmySqrt" />
-      <item itemvalue="Application.Nsearch1" />
-      <item itemvalue="Application.NfindPeakElement" />
-      <item itemvalue="Application.NfindMin" />
-      <item itemvalue="Application.NsearchRange" />
+      <item itemvalue="Application.N1findMin" />
+      <item itemvalue="Application.Nintersection" />
+      <item itemvalue="Application.Nintersect" />
+      <item itemvalue="Application.N167twosum" />
+      <item itemvalue="Application.NfindDuplicate" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NsearchRange" />
-        <item itemvalue="Application.NfindMin" />
-        <item itemvalue="Application.NfindPeakElement" />
-        <item itemvalue="Application.Nsearch1" />
-        <item itemvalue="Application.NmySqrt" />
+        <item itemvalue="Application.NfindDuplicate" />
+        <item itemvalue="Application.N167twosum" />
+        <item itemvalue="Application.Nintersect" />
+        <item itemvalue="Application.Nintersection" />
+        <item itemvalue="Application.N1findMin" />
       </list>
     </recent_temporary>
   </component>
@@ -304,12 +321,12 @@
       <workItem from="1551511672253" duration="8750000" />
       <workItem from="1551583993962" duration="42086000" />
       <workItem from="1551873944312" duration="87072000" />
-      <workItem from="1552351037097" duration="27075000" />
+      <workItem from="1552351037097" duration="49929000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="253736000" />
+    <option name="totallyTimeSpent" value="276590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -342,7 +359,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.24840085" />
+      <window_info active="true" anchor="right" id="Run" order="9" visible="true" weight="0.18550107" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,66 +383,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk-11.0.1/lib/src.zip!/java.base/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7300">
-          <caret line="517" column="64" selection-start-line="517" selection-start-column="59" selection-end-line="517" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Nissomorphic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/N349intersection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" selection-start-line="20" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/N202isHappy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" selection-start-line="20" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/N599findRestaurant.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="298">
-          <caret line="164" column="11" selection-start-line="164" selection-start-column="11" selection-end-line="164" selection-end-column="11" />
-          <folding>
-            <element signature="e#6283#6284#0" expanded="true" />
-            <element signature="e#6351#6352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/N350intersect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/N151ReverseWordsInAString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/N209minSubArrayLen.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -444,13 +401,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-11">
           <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/N279PerfectSquare.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
@@ -493,6 +443,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -521,6 +474,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -538,6 +494,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -719,27 +678,96 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/N153findMin.java">
+    <entry file="file://$PROJECT_DIR$/src/N658findClosestElements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="594">
+          <caret line="69" column="52" lean-forward="true" selection-start-line="69" selection-start-column="52" selection-end-line="69" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/N279PerfectSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/N162findPeakElement.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/N744nextGreatestLetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="39" column="72" selection-start-line="39" selection-start-column="72" selection-end-line="39" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/N367isPerfectSquare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/N154findMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/N153findMin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/N350intersect.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
-          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
+          <caret line="55" column="36" selection-start-line="55" selection-start-column="36" selection-end-line="55" selection-end-column="36" />
+          <folding>
+            <element signature="method#intersect#0;class#Nintersect#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/N349intersection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="709">
+          <caret line="45" column="41" selection-start-line="45" selection-start-column="41" selection-end-line="45" selection-end-column="41" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/NsearchRange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        <state relative-caret-position="-173">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/N167twosum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="66" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NfindDuplicate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
         </state>
       </provider>
     </entry>

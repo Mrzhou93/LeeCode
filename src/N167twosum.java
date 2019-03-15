@@ -4,7 +4,40 @@ import java.util.HashMap;
 import java.util.Map;
 
 class N167twosum {
-    public int[] twoSum(int[] numbers, int target) {
+    public int[] twoSum(int[] numbers, int target){     // nlog(n)
+        int[] res = new int[2];
+
+        for (int i = 0; i< numbers.length; i++){
+            int another = target - numbers[i];
+            int index = halffind(numbers, another);
+            if (index != -1 && i != index){
+                if (i < index) {
+                    res[0] = i + 1;
+                    res[1] = index + 1;
+                }else {
+                    res[1] = i + 1;
+                    res[0] = index + 1;
+                }
+            }
+        }
+        return res;
+    }
+
+    private int halffind(int[] numbers, int target){
+        int i = 0, j = numbers.length - 1;
+        while (i <= j){
+            int mid = i + (j - i) / 2;
+            if (numbers[mid] == target)
+                return mid;
+            else if (numbers[mid] < target)
+                i = mid + 1;
+            else
+                j = mid - 1;
+        }
+        return -1;
+    }
+
+    public int[] twoSum2(int[] numbers, int target) {
         Map<Integer, Integer> map = new HashMap<>();
 
         for (int i = 0; i < numbers.length; i++){
@@ -19,7 +52,6 @@ class N167twosum {
         return null;
     }
 
-
     public int[] twoSum1(int[] numbers, int target) {
         int[] result = new int[2];
         int i = 0, j = numbers.length - 1;
@@ -27,7 +59,7 @@ class N167twosum {
         while(i < j && numbers[i] + numbers[j] != target){
             if (numbers[i] + numbers[j] == target)
                 break;
-            else if (numbers[i] + numbers[j] > target)
+            else if (numbers[i] + numbers[j] < target)
                 j--;
             else
                 i++;
@@ -46,8 +78,16 @@ class N167twosum {
                 755,764,778,783,785,789,794,803,809,815,847,858,863,863,874,887,896,916,
                 920,926,927,930,933,957,981,997}; // 542 {24, 32}
 
+        int[] nums2 = {0, 0, 3, 4};
+
         N167twosum s = new N167twosum();
+        System.out.println(s.twoSum(nums, 9)[0]);
+        System.out.println(s.twoSum(nums, 9)[1]);
+
         System.out.println(s.twoSum(nums1, 542)[0]);
         System.out.println(s.twoSum(nums1, 542)[1]);
+
+        System.out.println(s.twoSum(nums2, 0)[0]);
+        System.out.println(s.twoSum(nums2, 0)[1]);
     }
 }

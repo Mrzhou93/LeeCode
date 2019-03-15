@@ -1,6 +1,8 @@
 package src;
 
 import java.util.HashSet;
+import java.util.LinkedList;
+import java.util.List;
 import java.util.Set;
 
 class Nintersection {
@@ -8,7 +10,6 @@ class Nintersection {
 
         Set<Integer> n1 = new HashSet<>();
         Set<Integer> n2 = new HashSet<>();
-
 
         for(int num: nums1){
             n1.add(num);
@@ -27,9 +28,13 @@ class Nintersection {
 
         for (int num: n2){
             result[k++] = num;
+            System.out.println("1"+num);
         }
+
         return result;
     }
+
+
 
     public static void main(String[] args){
         int[] nums1 = {1, 2, 2, 1};
@@ -37,6 +42,7 @@ class Nintersection {
 
         Nintersection s = new Nintersection();
 
+        System.out.println(s.intersection(nums1, nums2));
         System.out.println(s.intersection(nums1, nums2));
     }
 }

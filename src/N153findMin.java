@@ -29,6 +29,19 @@ class NfindMin {
         return nums[end];
     }
 
+    public int findMin1(int[] nums){
+        int start = 0, end = nums.length - 1;
+        while (start + 1 < end){
+            int mid = start + (end - start) / 2;
+            if (nums[mid] < nums[end])
+                end = mid;
+            else
+                start = mid;
+        }
+
+        return nums[start] < nums[end]? nums[start]:nums[end];
+    }
+
     public static void main(String[] args){
         int[] num = {4,5,6,7,0,1,2};
         int[] num1 = {1};
@@ -37,10 +50,10 @@ class NfindMin {
 
         NfindMin s = new NfindMin();
 
-        System.out.println(s.findMin(num));
-        System.out.println(s.findMin(num1));
-        System.out.println(s.findMin(num2));
-        System.out.println(s.findMin(num3));
+        System.out.println(s.findMin1(num));
+        System.out.println(s.findMin1(num1));
+        System.out.println(s.findMin1(num2));
+        System.out.println(s.findMin1(num3));
 
     }
 }
