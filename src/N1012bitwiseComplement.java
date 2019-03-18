@@ -14,7 +14,7 @@ class N1012bitwiseComplement {
     }
 
     public static void main(String[] args){
-        Solution s = new Solution();
+        N1012bitwiseComplement s = new N1012bitwiseComplement();
         System.out.println(s.bitwiseComplement(5));
         System.out.println(s.bitwiseComplement(7));
         System.out.println(s.bitwiseComplement(10));

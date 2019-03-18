@@ -1,39 +1,53 @@
 package src;
 
 class NfindDuplicate {
-    public int findDuplicate(int[] nums) {
-        for (int i = 0; i< nums.length; i++){
+    public int findDuplicate1(int[] nums) {
+        if (nums == null)
+            return -1;
 
-            System.out.println(nums[i]);
-
-            int index = Find(nums, nums[i]);
-            System.out.println("    "+index);
-
-            if (index != -1 && i != index)
-                return nums[i];
-        }
-        return -1;
-    }
-
-    private int Find(int[] nums, int target){
-        int i= 0, j = nums.length - 1;
+        int i = 0, j = nums.length - 1;
         while (i < j){
             int mid = i + (j - i) / 2;
-            if (nums[mid] == target)
-                return mid;
-            else if (nums[mid] < target)
+            int count = 0;
+            for (int num: nums){
+                if (num <= mid)
+                    count++;
+            }
+            if (count <= mid)
                 i = mid + 1;
             else
                 j = mid;
         }
-        return -1;
+        return i;
     }
+
+    public int findDuplicate(int[] nums){
+        int fast = 0, slow = 0;
+
+        while (true){
+            fast = nums[nums[fast]];
+            slow = nums[slow];
+            if (fast == slow)
+                break;
+        }
+
+        fast = 0;
+        while (true){
+            slow = nums[slow];
+            fast = nums[fast];
+            if (slow == fast)
+                break;
+        }
+        return slow;
+    }
+
 
     public static void main(String[] args){
         int[] nums = {1, 3, 4, 2, 2};
         int[] nums1 = {3, 1, 3, 4, 2};
         NfindDuplicate s = new NfindDuplicate();
         System.out.println(s.findDuplicate(nums));
+        System.out.println("==================");
         System.out.println(s.findDuplicate(nums1));
     }
 }
