@@ -17,10 +17,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/NmaxSubArray.java">
+        <entry file="file://$PROJECT_DIR$/src/N53maxSubArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+            <state relative-caret-position="133">
+              <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
             </state>
           </provider>
         </entry>
@@ -47,8 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/NpreorderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/NinorderTraversal.java" />
         <option value="$PROJECT_DIR$/src/NpostorderTraversal.java" />
         <option value="$PROJECT_DIR$/src/NlebelOrder.java" />
         <option value="$PROJECT_DIR$/src/NmaxDepth.java" />
@@ -98,6 +96,8 @@
         <option value="$PROJECT_DIR$/src/NlowestCommonAncestor.java" />
         <option value="$PROJECT_DIR$/src/climbStairs.java" />
         <option value="$PROJECT_DIR$/src/NmaxSubArray.java" />
+        <option value="$PROJECT_DIR$/src/NmaxProfit.java" />
+        <option value="$PROJECT_DIR$/src/N121maxProfit.java" />
       </list>
     </option>
   </component>
@@ -137,7 +137,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553009331598" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553010498050" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -258,18 +258,18 @@
       <workItem from="1551873944312" duration="87072000" />
       <workItem from="1552351037097" duration="49929000" />
       <workItem from="1552825734625" duration="23846000" />
-      <workItem from="1553003594068" duration="4822000" />
+      <workItem from="1553003594068" duration="5989000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="309676000" />
+    <option name="totallyTimeSpent" value="310843000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="762" y="0" width="781" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36237898" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36237898" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24896266" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -288,7 +288,7 @@
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info active="true" anchor="bottom" id="Run" order="12" visible="true" weight="0.27363896" />
+      <window_info anchor="bottom" id="Run" order="12" visible="true" weight="0.27363896" />
       <window_info anchor="right" id="Maven" order="0" />
       <window_info anchor="right" id="Palette" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
@@ -305,13 +305,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="341" column="26" selection-start-line="341" selection-start-column="18" selection-end-line="341" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/N102lebelOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -550,13 +543,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/N1012bitwiseComplement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/NfindDuplicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="828">
@@ -671,10 +657,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NmaxSubArray.java">
+    <entry file="file://$PROJECT_DIR$/src/N1012bitwiseComplement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        <state relative-caret-position="234">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/N121maxProfit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/N53maxSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="47" selection-start-line="7" selection-start-column="47" selection-end-line="7" selection-end-column="47" />
         </state>
       </provider>
     </entry>
