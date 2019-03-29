@@ -1,156 +1,79 @@
-//package src;
-//import java.util.*;
+package src;
+import java.util.*;
 
-//public class Main {
-//    public int minCoin(int n, int m){  // n最大面额 m商品价格
-//        if (n == 1)
-//            return m;
+
+class Solution {
+    public boolean canThreePartsEqualSum(int[] A){
+        int sum = 0;
+        int i = 0, j = A.length - 1;
+        int frontSum = 0;
+        int rearSum = 0;
+
+        for (int num: A){
+            sum += num;
+        }
+        System.out.println("sum"+sum);
+
+        while (i + 1 < j){
+            int mid = partSum(A, i , j);
+            int front = partSum(A, 0, i);
+            int rear = partSum(A, j, A.length-1);
+
+            System.out.println(front);
+            System.out.println(mid);
+
+            if (front == sum / 3 && rear == sum / 3 && mid == sum / 3)
+                return true;
+            if (front < sum / 3)
+                i++;
+            if (rear < sum / 3)
+                j--;
+        }
+
+        System.out.println(i);
+        System.out.println(j);
+
+        if (A[i] == sum / 3)
+            return true;
+
+        return false;
+    }
+
+    private int partSum(int[] A, int i, int j){
+        int sum = 0;
+        if (i < j){
+            for(int k = i; k < j; k++){
+                sum += A[k];
+            }
+        }
+        return sum;
+    }
+
+    public static void main(String[] args){
+        int[] num1 = {0,2,1,-6,6,-7,9,1,2,0,1};
+        int[] num2 = {3,3,6,5,-2,2,5,1,-9,4};
+        int[] num3 = {0,2,1,-6,6,7,9,-1,2,0,1};
+        Solution s = new Solution();
+        System.out.println(s.canThreePartsEqualSum(num1));
+        System.out.println(s.canThreePartsEqualSum(num2));
+        System.out.println(s.canThreePartsEqualSum(num3));
+    }
+}
+
+//class Solution {
+//    public int smallestRepunitDivByK(int K) {
+//        int num = 1, length = 1;
 //
-//        if (m <= 0 || n <= 0)
-//            return 0;
 //
-//        if (n > m )
-//            return 1;
-//        System.out.println("    "+m);
-//        return minCoin(n, m-n) + 1;
-//    }
-//
-//    public static void main(String[] args){
-//        Scanner sc = new Scanner(System.in);
-//
-//        Main s = new Main();
-//
-////        System.out.println(s.minCoin(6, 7));
-//        System.out.println(s.minCoin(1, 5));
-//
-//
-//        while (sc.hasNextInt()){
-//            int a = sc.nextInt();
-//            int b = sc.nextInt();
-//
-//            System.out.println(s.minCoin(a, b));
-//        }
 //    }
 //}
 
-//public class Main {
-//    public int targetSum(int left, int right){
-//        if (left == right){
-//            return left % 2 == 0 ? left: -left;
-//        }
-//        boolean lefto, righto;
-//        lefto = (left % 2) == 0;
-//        righto = (right % 2) == 0;
-//
-//        if (lefto && righto)
-//            return right - (right - left) / 2;
-//        if (!lefto && !righto)
-//            return (right - left) / 2 - right;
-//        if (lefto && !righto)
-//            return -((right + 1 - left) / 2);
-//        if (!lefto && righto)
-//            return (right + 1 - left) / 2;
-//        return 0;
-//    }
-//
-//    public static void main(String[] args){
-//        Scanner sc = new Scanner(System.in);
-//
-//        Main s = new Main();
-//
-//        System.out.println(s.targetSum(2, 4));
-//        System.out.println(s.targetSum(2, 2));
-//        System.out.println(s.targetSum(3, 3));
-//        System.out.println(s.targetSum(1, 5));
-//
-//        int times = sc.nextInt();
-//        while (times > 0){
-//            int a = sc.nextInt();
-//            int b = sc.nextInt();
-//
-//            System.out.println(s.targetSum(a, b));
-//            times--;
-//        }
-//    }
-//}
 
-//public class Main {
-//    public int sum(int n, int s){
-//        if (n < s)
-//            return 0;
+//class Solution {
+//    public boolean queryString(String S, int N) {
+//        int num = 0;
+//        int length = S.length();
 //
-//        if (n == s)
-//            return 1;
-//
-//        return (cal(n, s) / cal(s, 1)) + n;
-//    }
-//
-//    private int cal(int m, int n){
-//        if (m == n)
-//            return m;
-//
-//        return m * cal(m-1, n);
-//    }
-//
-//    public static void main(String[] args){
-//        Main so = new Main();
-//
-//        Scanner sc = new Scanner(System.in);
-//
-////        System.out.println(so.cal(5, 2));
-////        System.out.println(so.cal(5, 3));
-////        System.out.println(so.cal(6, 2));
-//
-//        System.out.println(so.sum(3, 2));
-//
-////        System.out.println(so.sum(5, 3));
-//
-//        while(sc.hasNextInt()){
-//            int n = sc.nextInt();
-//            int s = sc.nextInt();
-//            int temp;
-//            for (int i=0; i< n; i++){
-//                temp = sc.nextInt();
-//            }
-//            System.out.println(so.sum(n, s));
-//        }
-//    }
-//}
-
-//public class Main {
-//    public int sum(int n, int m, int[] nums){
-//        Map<Integer, Integer> map = new HashMap<>();
-//        Set<Integer> set = new HashSet<>();
-//
-//        for (int i= 0; i < nums.length; i++){
-//            set.add(nums[i]);
-//        }
-//
-//        for (int i=1; i<=m; i++){
-//            if (!set.contains(i))
-//                return -1;
-//        }
-//
-//        return 0;
-//    }
-//
-//        public static void main(String[] args){
-//        Main so = new Main();
-//
-//        Scanner sc = new Scanner(System.in);
-//
-//        int[] num1 = {2, 5, 3, 1, 3,2,4,1,0,5,4,3};
-//        System.out.println(so.sum(3, 2, num1));
-//
-//
-//        while(sc.hasNextInt()){
-//            int n = sc.nextInt();
-//            int s = sc.nextInt();
-//            int[] num = new int[n];
-//            for (int i=0; i< n; i++){
-//                num[i] = sc.nextInt();
-//            }
-//            System.out.println(so.sum(n, s, num));
-//        }
+//        while(length >)
 //    }
 //}

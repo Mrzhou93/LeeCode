@@ -2,7 +2,7 @@ package src;
 
 import java.util.HashMap;
 
-class Solution {
+class N1013numPairsDivisibleBy60 {
     public int numPairsDivisibleBy60(int[] time) {
         int i, j, res = 0;
         for (i = 0; i< time.length; i++){
@@ -16,7 +16,7 @@ class Solution {
 
 
     public static void main(String[] args){
-        Solution s = new Solution();
+        N1013numPairsDivisibleBy60 s = new N1013numPairsDivisibleBy60();
         int[] num = {30,20,150,100,40};
         int[] num1 = {60, 60, 60};
         int[] num2 = {30};
