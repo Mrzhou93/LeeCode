@@ -1,7 +1,7 @@
 package src;
 import java.util.*;
 
-class N1030nextLargerNodes {
+class N1019nextLargerNodes {
     public int[] nextLargerNodes(ListNode head) {
         ArrayList<Integer> elements = new ArrayList<>();
 

@@ -3,84 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a4dc496a-fb38-426b-9489-bd8983cdc099" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/BSTIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/MinStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N1findMin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N232ImplementStackUsingQueues.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NaddEvenList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NbuildTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NfindMin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NfindPeakElement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NgroupAnagrams.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NhadPathSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NinorderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NisHappy.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NkthSmallest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NlebelOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NlowestCommonAncestor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NmaxDepth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NmaxProfit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NmaxSubArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NmergeTwoLists.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NminCostClimbingStairs.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeeCode/src/NminCostClimbingStairs.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NmoveZeros.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NpreInTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NpreorderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NremoveNthFromEnd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/Nrob.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NrotateRight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/Nsearch1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NsearchMatrix.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NumArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/climbStairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/numIslands.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N102lebelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N102lebelOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N104maxDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N104maxDepth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N105preInTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N105preInTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N106buildTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N106buildTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N112hadPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N112hadPathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N121maxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N121maxProfit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N144preorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N144preorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N145postorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N145postorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N153findMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N153findMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N154findMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N154findMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N155minStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N155minStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N162findPeakElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N162findPeakElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N173BSTIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N173BSTIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N198rob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N198rob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N19removeNthFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N19removeNthFromEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N200NumLand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N200NumLand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N202isHappy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N202isHappy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N21mergeTwoLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N21mergeTwoLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N230kthSmallest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N230kthSmallest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N232ImplementQueuesUsingStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N232ImplementQueuesUsingStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N236lowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N236lowestCommonAncestor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N240searchMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N240searchMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N283moveZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N283moveZeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N303sumRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N303sumRange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N328addEvenList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N328addEvenList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N33search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N33search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N344reverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N344reverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N349intersection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N349intersection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N350intersect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N350intersect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N367isPerfectSquare.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N367isPerfectSquare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N387firstUniqChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N387firstUniqChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N430flatten.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N430flatten.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N450deleteTreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N450deleteTreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N454fourSumCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N454fourSumCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N485findMaxConsecutiveOnes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N485findMaxConsecutiveOnes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N49groupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N49groupAnagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N53maxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N53maxSubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N542Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N542UpdateMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N599findRestaurant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N599findRestaurant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N61rotateRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N61rotateRight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N701insertIntoBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N701insertIntoBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N704search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N704search.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N705MyHashSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N705MyHashSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N706MyHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N706MyHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N70climbStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N70climbStairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/N744nextGreatestLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N744nextGreatestLetter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NminCostClimbingStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N746minCostClimbingStairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/N771numJewelsInStones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N771numJewelsInStones.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/N932beautifulArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/N932beautifulArray.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -121,45 +45,33 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="101" />
+          <entry key="java" value="106" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="101" />
+          <entry key="JAVA" value="106" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="13269" />
+          <entry key="java" value="13456" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="13269" />
+          <entry key="JAVA" value="13456" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/N744nextGreatestLetter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="612">
-              <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/N746minCostClimbingStairs.java">
+        <entry file="file://$PROJECT_DIR$/src/NmincostTickets.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="673">
-              <caret line="65" column="46" selection-start-line="65" selection-start-column="46" selection-end-line="65" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="511">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
             </state>
           </provider>
         </entry>
@@ -186,9 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/N21mergeTwoLists.java" />
-        <option value="$PROJECT_DIR$/src/N62uniquePaths.java" />
-        <option value="$PROJECT_DIR$/src/N63uniquePathsWithObstacles.java" />
         <option value="$PROJECT_DIR$/src/N64minPathSum.java" />
         <option value="$PROJECT_DIR$/src/N33search.java" />
         <option value="$PROJECT_DIR$/src/N49groupAnagrams.java" />
@@ -237,6 +146,9 @@
         <option value="$PROJECT_DIR$/src/N706MyHashMap.java" />
         <option value="$PROJECT_DIR$/src/N744nextGreatestLetter.java" />
         <option value="$PROJECT_DIR$/src/N746minCostClimbingStairs.java" />
+        <option value="$PROJECT_DIR$/src/N771numJewelsInStones.java" />
+        <option value="$PROJECT_DIR$/src/N932beautifulArray.java" />
+        <option value="$PROJECT_DIR$/src/NmincostTickets.java" />
       </list>
     </option>
   </component>
@@ -283,7 +195,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554288702811" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554292058406" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -408,12 +320,12 @@
       <workItem from="1553390608447" duration="4767000" />
       <workItem from="1553416964569" duration="1194000" />
       <workItem from="1553841989940" duration="22020000" />
-      <workItem from="1554172652459" duration="36595000" />
+      <workItem from="1554172652459" duration="39223000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="375419000" />
+    <option name="totallyTimeSpent" value="378047000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -458,34 +370,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/N5longestPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/N64minPathSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="511">
-          <caret line="36" column="24" lean-forward="true" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/N61rotateRight.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/N70climbStairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="583">
-          <caret line="51" column="22" lean-forward="true" selection-start-line="51" selection-start-column="22" selection-end-line="51" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/N53maxSubArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="583">
@@ -734,13 +618,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/N350intersect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="565">
-          <caret line="93" lean-forward="true" selection-start-line="93" selection-end-line="93" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/N367isPerfectSquare.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -825,6 +702,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/N746minCostClimbingStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="61" column="43" lean-forward="true" selection-start-line="61" selection-start-column="43" selection-end-line="61" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/N932beautifulArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="47" column="9" lean-forward="true" selection-start-line="47" selection-start-column="9" selection-end-line="47" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/N771numJewelsInStones.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/N744nextGreatestLetter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
@@ -832,13 +733,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/N746minCostClimbingStairs.java">
+    <entry file="file://$PROJECT_DIR$/src/N5longestPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="673">
-          <caret line="65" column="46" selection-start-line="65" selection-start-column="46" selection-end-line="65" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="373">
+          <caret line="21" column="6" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/N350intersect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1656">
+          <caret line="92" column="5" lean-forward="true" selection-start-line="92" selection-start-column="5" selection-end-line="92" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NmincostTickets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="511">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
         </state>
       </provider>
     </entry>

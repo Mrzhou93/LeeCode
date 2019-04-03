@@ -3,7 +3,7 @@ package src;
 import java.util.HashSet;
 import java.util.Set;
 
-class NnumJewelsInStones {
+class N771numJewelsInStones {
     public int numJewelsInStones(String J, String S) {
         Set<Character> set = new HashSet<>();
         int count = 0;

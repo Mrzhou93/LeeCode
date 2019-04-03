@@ -22,7 +22,7 @@ package src;
  * */
 
 
-class NbeautifulArray {
+class N932beautifulArray {
     public int[] beautifulArray(int N) {
         int[] result = new int[N];
 
@@ -49,7 +49,7 @@ class NbeautifulArray {
     }
 
     public static void main(String args[]){
-        NbeautifulArray s= new NbeautifulArray();
+        N932beautifulArray s= new N932beautifulArray();
 
         s.printArray(s.beautifulArray(4));
     }
