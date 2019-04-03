@@ -19,7 +19,7 @@ package src;
  *      偷窃到的最高金额 = 2 + 9 + 1 = 12 。
  */
 
-class Nrob {
+class N198rob {
     public int rob(int[] nums) {
 
         int[] partMax = new int[nums.length];
@@ -45,7 +45,7 @@ class Nrob {
     public static void main(String[] args){
         int[] num = {1, 2, 3, 1};
         int[] num1 = {2, 7, 9, 3, 1};
-        Nrob s = new Nrob();
+        N198rob s = new N198rob();
         System.out.println(s.rob(num));
         System.out.println(s.rob(num1));
     }

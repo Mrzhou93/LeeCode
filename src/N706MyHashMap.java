@@ -1,9 +1,9 @@
 package src;
 
-class MyHashMap {
+class N706MyHashMap {
     private Integer[] myHashMap;
     /** Initialize your data structure here. */
-    public MyHashMap() {
+    public N706MyHashMap() {
         myHashMap = new Integer[1000000];
     }
 

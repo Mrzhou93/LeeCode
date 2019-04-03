@@ -1,6 +1,6 @@
 package src;
 
-class NmergeTwoLists {
+class N21mergeTwoLists {
     public ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         ListNode newList = new ListNode(-1);
         ListNode cur = newList;

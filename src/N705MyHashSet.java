@@ -1,11 +1,11 @@
 package src;
 
-class MyHashSet {
+class N705MyHashSet {
 
     private int[] myHashSet = new int[1000000];
 
     /** Initialize your data structure here. */
-    public MyHashSet() {
+    public N705MyHashSet() {
 
     }
 

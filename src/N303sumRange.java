@@ -15,11 +15,11 @@ package src;
  * 你可以假设数组不可变。
  * 会多次调用 sumRange 方法。*/
 
-class NumArray {
+class N303numArray {
 
     private int[] sum;
 
-    public NumArray(int[] nums) {
+    public N303numArray(int[] nums) {
         if (nums.length == 0)
             return;
 
@@ -48,7 +48,7 @@ class NumArray {
     public static void main(String args[]){
         int[] num = {-2, 0, 3, -5, 2, -1};
 
-        NumArray s = new NumArray(num);
+        N303numArray s = new N303numArray(num);
         System.out.println(s.sumRange(0, 2));
         System.out.println(s.sumRange(2, 5));
         System.out.println(s.sumRange(0, 5));

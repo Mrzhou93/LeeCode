@@ -3,11 +3,11 @@ package src;
 import java.util.LinkedList;
 import java.util.Queue;
 
-class BSTIterator {
+class N173BSTIterator {
 
     Queue<Integer> vals = new LinkedList<>();
 
-    public BSTIterator(TreeNode root) {
+    public N173BSTIterator(TreeNode root) {
         build(root);
     }
 

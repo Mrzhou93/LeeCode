@@ -66,9 +66,9 @@ class MyCircularQueue {
     }
 }
 
-class numIslands {
+class N200numIslands {
 
-    public int numIslands(char[][] grid) {
+    public int N200numIslands(char[][] grid) {
 
         if(grid == null || grid.length == 0 || grid[0].length == 0){
             return 0;
@@ -162,7 +162,7 @@ class numIslands {
         char[][] grid3 = {{'1','1','0','0','0'}, {'0','1','0','0','1'},
                 {'0','0','0','1','1'}, {'0','0','0','0','0'}, {'0', '0', '0', '0', '1'}};
 
-        numIslands s = new numIslands();
+        N200numIslands s = new N200numIslands();
 
         System.out.println(s.numIslands1(grid1));
         System.out.println(s.numIslands1(grid2));

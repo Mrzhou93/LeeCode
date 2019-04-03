@@ -10,7 +10,7 @@ package src;
  * 解释: 连续子数组 [4,-1,2,1] 的和最大，为 6。
  */
 
-class NmaxSubArray {
+class N53maxSubArray {
     public int maxSubArray2(int[] nums) {       // 动态规划
         int max = 0;
         int res = 0;
@@ -79,7 +79,7 @@ class NmaxSubArray {
 
     public static void main(String[] args){
         int[] num = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
-        NmaxSubArray s = new NmaxSubArray();
+        N53maxSubArray s = new N53maxSubArray();
         System.out.println(s.maxSubArray(num));
         System.out.println(s.maxSubArray1(num));
     }

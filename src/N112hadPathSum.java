@@ -1,6 +1,6 @@
 package src;
 
-class NhadPathSum {
+class N112hadPathSum {
     public boolean hasPathSum(TreeNode root, int sum) {
         if (root==null)
             return false;

@@ -2,12 +2,12 @@ package src;
 
 import java.util.Stack;
 
-class N232ImplementStackUsingQueues {  //
+class N232ImplementQueuesUsingStack {  //
 
     private Stack<Integer> stack = new Stack<>();
 
     /** Initialize your data structure here. */
-    public N232ImplementStackUsingQueues() {
+    public N232ImplementQueuesUsingStack() {
 
     }
 

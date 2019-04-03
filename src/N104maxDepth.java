@@ -1,6 +1,6 @@
 package src;
 
-class NmaxDepth {
+class N104maxDepth {
     public int maxDepth(TreeNode root) {
         if (root == null)
             return 0;

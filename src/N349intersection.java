@@ -5,7 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Set;
 
-class Nintersection {
+class N349intersection {
     public int[] intersection(int[] nums1, int[] nums2) {
 
         Set<Integer> n1 = new HashSet<>();
@@ -40,7 +40,7 @@ class Nintersection {
         int[] nums1 = {1, 2, 2, 1};
         int[] nums2 = {2, 2};
 
-        Nintersection s = new Nintersection();
+        N349intersection s = new N349intersection();
 
         System.out.println(s.intersection(nums1, nums2));
         System.out.println(s.intersection(nums1, nums2));

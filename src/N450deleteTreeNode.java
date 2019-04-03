@@ -1,6 +1,6 @@
 package src;
 
-class NdeleteTreeNode {
+class N450deleteTreeNode {
     public TreeNode deleteNode(TreeNode root, int key) {
         if (root == null)
             return null;

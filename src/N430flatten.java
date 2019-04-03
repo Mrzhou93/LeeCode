@@ -20,7 +20,7 @@ class Node {
     }
 };
 
-class Nflatten {
+class N430flatten {
     public Node flatten(Node head) {
 
         Stack<Node> NextToVisit = new Stack<>();

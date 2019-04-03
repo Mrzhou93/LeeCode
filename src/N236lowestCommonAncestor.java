@@ -1,6 +1,6 @@
 package src;
 
-class NlowestCommonAncestor {
+class N236lowestCommonAncestor {
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         int l = p.val, b = q.val;       // l为比较小的那个，b为比较大的那个
         if (b < l){

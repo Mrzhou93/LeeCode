@@ -1,6 +1,6 @@
 package src;
 
-class NremoveNthFromEnd {
+class N19removeNthFromEnd {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         if (head.next == null)
             return null;

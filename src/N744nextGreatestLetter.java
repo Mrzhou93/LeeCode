@@ -1,6 +1,6 @@
 package src;
 
-class NnextGreatestLetter {
+class N744nextGreatestLetter {
     public char nextGreatestLetter(char[] letters, char target) {
         if (target == 'z')
             return letters[0];
@@ -32,7 +32,7 @@ class NnextGreatestLetter {
     public static void main(String[] args){
         char[] letters = {'c', 'f', 'j'};
         char[] letters1 = {'e', 'e', 'e', 'e', 'e', 'e', 'n', 'n', 'n', 'n'};
-        NnextGreatestLetter s = new NnextGreatestLetter();
+        N744nextGreatestLetter s = new N744nextGreatestLetter();
         System.out.println(s.nextGreatestLetter(letters, 'a'));     // c
         System.out.println(s.nextGreatestLetter(letters1, 'f'));    // n
         System.out.println(s.nextGreatestLetter(letters1, 'n'));    // e

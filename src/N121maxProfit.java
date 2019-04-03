@@ -21,7 +21,7 @@ package src;
  * 解释: 在这种情况下, 没有交易完成, 所以最大利润为 0。
  * */
 
-class NmaxProfit {
+class N121maxProfit {
     public int maxProfit(int[] prices){
         if (prices.length < 2)
             return 0;

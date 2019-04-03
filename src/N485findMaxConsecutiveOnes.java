@@ -1,6 +1,6 @@
 package src;
 
-class findMaxConsecutiveOnes {
+class N485findMaxConsecutiveOnes {
     public int findMaxConsecutiveOnes(int[] nums) {
         int k = 0;
         int max = 0;
@@ -28,7 +28,7 @@ class findMaxConsecutiveOnes {
         int[] nums1 = {1,0,1,1,0,1};
         int[] nums2 = {0,1};
 
-        findMaxConsecutiveOnes s = new findMaxConsecutiveOnes();
+        N485findMaxConsecutiveOnes s = new N485findMaxConsecutiveOnes();
         System.out.println(s.findMaxConsecutiveOnes(nums));
         System.out.println(s.findMaxConsecutiveOnes(nums1));
         System.out.println(s.findMaxConsecutiveOnes(nums2));

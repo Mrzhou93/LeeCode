@@ -2,7 +2,7 @@ package src;
 
 import java.util.*;
 
-class NfindRestaurant {
+class N599findRestaurant {
     public String[] findRestaurant(String[] list1, String[] list2) {
         Map<String, Integer> map = new HashMap<>();
         Set<Integer> set = new HashSet<>();
@@ -33,7 +33,7 @@ class NfindRestaurant {
         String[] s1 = {"Shogun", "Tapioca Express", "Burger King", "KFC"};
         String[] s2 = {"Piatti", "The Grill at Torrey Pines", "Hungry Hunter Steakhouse", "Shogun"};
 
-        NfindRestaurant s = new NfindRestaurant();
+        N599findRestaurant s = new N599findRestaurant();
         String[] result = s.findRestaurant(s1, s2);
         System.out.println(result[0]);
     }

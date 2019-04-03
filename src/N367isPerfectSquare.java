@@ -1,6 +1,6 @@
 package src;
 
-class NisPerfectSquare {
+class N367isPerfectSquare {
     public boolean isPerfectSquare(int num) {
         int left = 0, right = num;
 
@@ -22,7 +22,7 @@ class NisPerfectSquare {
     }
 
     public static void main(String[] args){
-        NisPerfectSquare s = new NisPerfectSquare();
+        N367isPerfectSquare s = new N367isPerfectSquare();
         System.out.println(s.isPerfectSquare(16));
         System.out.println(s.isPerfectSquare(14));
         System.out.println(s.isPerfectSquare(2147483647));

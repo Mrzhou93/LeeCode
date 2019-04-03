@@ -1,6 +1,6 @@
 package src;
 
-class NsearchMatrix {
+class N240searchMatrix {
     public boolean searchMatrix(int[][] matrix, int target) {
         int row = matrix.length;
         if (row == 0)

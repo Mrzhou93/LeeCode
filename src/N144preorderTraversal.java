@@ -12,7 +12,7 @@ class TreeNode {
 }
 
 
-class NpreorderTraversal {
+class N144preorderTraversal {
     public List<Integer> preorderTraversal(TreeNode root) {
 
         List<Integer> res = new LinkedList<>();

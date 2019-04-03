@@ -3,7 +3,7 @@ package src;
 import java.util.HashMap;
 import java.util.Map;
 
-class NfourSumCount {
+class N454fourSumCount {
     public int fourSumCount(int[] A, int[] B, int[] C, int[] D) {
         Map<Integer, Integer> map = new HashMap<>();
         int result = 0;

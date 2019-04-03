@@ -1,6 +1,6 @@
 package src;
 
-class NbuildTree {
+class N106buildTree {
     public TreeNode buildTree(int[] inorder, int[] postorder) {
         return builder(inorder, postorder, 0, inorder.length - 1, postorder.length - 1);
     }

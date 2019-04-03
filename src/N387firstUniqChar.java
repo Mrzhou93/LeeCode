@@ -5,7 +5,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-class NfirstUniqChar {
+class N387firstUniqChar {
     public int firstUniqChar(String s) {
         Map<Character, Integer> map = new HashMap<>();
         Set<Character> hashMap = new HashSet<>();

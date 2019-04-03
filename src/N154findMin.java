@@ -1,6 +1,6 @@
 package src;
 
-class N1findMin {
+class N154findMin {
     public int findMin(int[] nums){
         int start = 0, end = nums.length - 1;
         while (start + 1 < end){
@@ -23,7 +23,7 @@ class N1findMin {
         int[] num3 = {1, 1, 3, 1};
         int[] num4 = {1, 3, 3};
 
-        N1findMin s = new N1findMin();
+        N154findMin s = new N154findMin();
 
         System.out.println(s.findMin(num));
         System.out.println(s.findMin(num1));

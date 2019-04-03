@@ -2,7 +2,7 @@ package src;
 
 import java.util.*;
 
-class Nintersect {
+class N350intersect {
     public int[] intersect(int[] nums1, int[] nums2) {
         Map<Integer, Integer> map = new HashMap<>(); // value, count 统计相同的元素有多少个
         List<Integer> result = new ArrayList<>();
@@ -96,7 +96,7 @@ class Nintersect {
         int[] num1 = {4,9,5};
         int[] num2 = {9,4,9,8,4};
 
-        Nintersect s = new Nintersect();
+        N350intersect s = new N350intersect();
 //        s.intersection1(num2, num1);
         s.intersection1(num1, num2);
     }

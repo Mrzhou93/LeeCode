@@ -1,5 +1,5 @@
 package src;
-class NreverseString {
+class N344reverseString {
     public void reverseString(char[] s) {
         int i = 0;
         int j = s.length - 1;

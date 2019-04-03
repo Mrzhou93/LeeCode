@@ -4,7 +4,7 @@ import java.util.*;
 import java.util.List;
 import java.util.ArrayList;
 
-class NgroupAnagrams {
+class N49groupAnagrams {
     public List<List<String>> groupAnagrams(String[] strs) {
         if (strs.length == 0)
             return new ArrayList<>();

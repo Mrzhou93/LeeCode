@@ -1,6 +1,6 @@
 package src;
 
-class NfindMin {
+class N153findMin {
     public int findMin(int[] nums) {
 
         return min(nums, 0, nums.length-1);
@@ -48,7 +48,7 @@ class NfindMin {
         int[] num2 = {2, 1};
         int[] num3 = {3, 1, 2};
 
-        NfindMin s = new NfindMin();
+        N153findMin s = new N153findMin();
 
         System.out.println(s.findMin1(num));
         System.out.println(s.findMin1(num1));

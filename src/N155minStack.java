@@ -3,11 +3,11 @@ package src;
 import java.util.ArrayList;
 import java.util.List;
 
-class MinStack {
+class N155minStack {
 
     private List<Integer> data;
 
-    public MinStack() {
+    public N155minStack() {
         data = new ArrayList<>();
     }
 
@@ -29,7 +29,7 @@ class MinStack {
     }
 
     public int getMin() {
-        MinStack tStack = new MinStack();
+        N155minStack tStack = new  N155minStack();
         int min = top();
 
         while( !isEmpty()){
@@ -51,7 +51,7 @@ class MinStack {
 
     public static void main(String[] args){
 
-        MinStack minStack = new MinStack();
+        N155minStack minStack = new  N155minStack();
         minStack.push(-2);
         minStack.push(0);
         minStack.push(-3);

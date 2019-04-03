@@ -1,6 +1,6 @@
 package src;
 
-class NaddEvenList {
+class N328addEvenList {
     public ListNode oddEvenList(ListNode head) {
         if (head==null || head.next == null)
             return head;

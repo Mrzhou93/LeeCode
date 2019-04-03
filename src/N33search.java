@@ -1,7 +1,7 @@
 package src;
 
 
-class Nsearch1 {
+class N33search {
     public int search(int[] nums, int target) {
         return searching(nums, 0, nums.length -1, target);
     }
@@ -28,7 +28,7 @@ class Nsearch1 {
     }
 
     public static void main(String[] args){
-        Nsearch1 s = new Nsearch1();
+        N33search s = new N33search();
         int[] nums = {4,5,6,7,0,1,2};
         int[] nums1 = {1, 3};
         int[] nums2 = {3, 1};

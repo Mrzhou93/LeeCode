@@ -1,6 +1,6 @@
 package src;
 
-class NmoveZeros {
+class N283moveZeros {
     public void moveZeroes(int[] nums) {
         int k = 0;  // 记录0的个数
 

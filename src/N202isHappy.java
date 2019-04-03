@@ -3,7 +3,7 @@ package src;
 import java.util.HashSet;
 import java.util.Set;
 
-class NisHappy {
+class N202isHappy {
     public boolean isHappy(int n) {
         Set<Integer> HashSet =  new HashSet<>();
         int sum;
@@ -32,7 +32,7 @@ class NisHappy {
 
     public static void main(String[] args){
 
-        NisHappy s = new NisHappy();
+        N202isHappy s = new N202isHappy();
 
         System.out.println(s.isHappy(2));
     }

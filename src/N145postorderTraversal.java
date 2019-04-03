@@ -3,7 +3,7 @@ package src;
 import java.util.LinkedList;
 import java.util.List;
 
-class NinorderTraversal {
+class N145postorderTraversal {
     public List<Integer> postorderTraversal(TreeNode root) {
         List<Integer> res = new LinkedList<>();
 

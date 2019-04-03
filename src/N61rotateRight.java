@@ -1,6 +1,6 @@
 package src;
 
-class NrotateRight {
+class N61rotateRight {
     public ListNode rotateRight(ListNode head, int k) {
         if (head == null) {
             return null;

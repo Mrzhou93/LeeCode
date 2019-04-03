@@ -1,6 +1,6 @@
 package src;
 
-class NpreInTree {
+class N105preInTree {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
         return builder(preorder, inorder, 0, 0, inorder.length-1);
     }

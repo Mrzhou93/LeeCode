@@ -1,6 +1,6 @@
 package src;
 
-class NfindPeakElement {
+class N162findPeakElement {
     public int findPeakElement1(int[] nums) {
         if (nums.length == 1)
             return 0;
@@ -58,7 +58,7 @@ class NfindPeakElement {
 
 
     public static void main(String[] args){
-        NfindPeakElement s = new NfindPeakElement();
+        N162findPeakElement s = new N162findPeakElement();
 
         int[] nums = {1,2,3,1};
         int[] nums1 = {2,1};

@@ -22,7 +22,7 @@ package src;
  * 3.  2 阶 + 1 阶
  */
 
-class climbStairs {
+class N70climbStairs {
     public int climbStairs1(int n) {  // 时间复杂度过高
         if (n == 1)
             return 1;
@@ -56,7 +56,7 @@ class climbStairs {
     }
 
     public static void main(String[] args){
-        climbStairs s = new climbStairs();
+        N70climbStairs s = new N70climbStairs();
         System.out.println(s.climbStairs(2));
 //        System.out.println(s.climbStairs(3));
 //        System.out.println(s.climbStairs(43));

@@ -1,6 +1,6 @@
 package src;
 
-class NinsertIntoBST {
+class N701insertIntoBST {
     public TreeNode insertIntoBST(TreeNode root, int val) {
 
         if (root == null)

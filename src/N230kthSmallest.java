@@ -3,9 +3,9 @@ package src;
 import java.util.LinkedList;
 import java.util.Queue;
 
-class NkthSmallest {
+class N230kthSmallest {
 
-    public int kthSmallest1(TreeNode root, int k) {   // 先序遍历的办法
+    public int N230kthSmallest1(TreeNode root, int k) {   // 先序遍历的办法
 
         Queue<Integer> queue = new LinkedList<>();
         inOrder(root, queue);
