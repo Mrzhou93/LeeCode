@@ -39,14 +39,14 @@ class N198rob {
             partMax[i] = max;
             }
         }
-        return max;
+        return partMax[nums.length - 1];
     }
 
     public static void main(String[] args){
         int[] num = {1, 2, 3, 1};
         int[] num1 = {2, 7, 9, 3, 1};
         N198rob s = new N198rob();
-        System.out.println(s.rob(num));
-        System.out.println(s.rob(num1));
+        System.out.println(s.rob(num));     // 4
+        System.out.println(s.rob(num1));    // 12
     }
 }
