@@ -3,7 +3,133 @@
   <component name="ChangeListManager">
     <list default="true" id="a4dc496a-fb38-426b-9489-bd8983cdc099" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NmaximalSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/.idea/LeeCode.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/META-INF/LeeCode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/MyCircularQueue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/MyStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N1012bitwiseComplement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N1013numPairsDivisibleBy60.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N1019nextLargerNodes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N1027prefixesDivBy5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N102lebelOrder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N104maxDepth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N105preInTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N106buildTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N112hadPathSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N116connect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N117connect2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N118PascalTriangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N119getRow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N120minimumTotal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N121maxProfit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N136SingleNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N139workBreak.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N141circularLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N142LinkedListCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N144preorderTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N145postorderTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N150ReversePolishNotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N151ReverseWordsInAString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N152maxProduct.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N153findMin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N154findMin.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N155minStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N160intersectionNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N162findPeakElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N167twosum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N169majorityElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N173BSTIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N189rotate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N198rob.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N19removeNthFromEnd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N200numIslands.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N202isHappy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N203removeElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N206reverseList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N209minSubArrayLen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N20ValidParenthesis.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N213rob.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N215findKthLargest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N217containsDuplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N21mergeTwoLists.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N230kthSmallest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N232ImplementQueuesUsingStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N236lowestCommonAncestor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N240searchMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N26removeDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N279PerfectSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N27removeElement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N283moveZeros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N28strStr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N303numArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N328addEvenList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N33search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N344reverseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N349intersection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N350intersect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N367isPerfectSquare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N387firstUniqChar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N394DecodeString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N430flatten.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N450deleteTreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N454fourSumCount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N485findMaxConsecutiveOnes.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N494TargetSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N498DiagonalTraverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N49groupAnagrams.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N53maxSubArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N542UpdateMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N54SpiralMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N561ArrayPartition.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N599findRestaurant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N5longestPalindrome.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N61rotateRight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N62uniquePaths.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N63uniquePathsWithObstacles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N64minPathSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N658findClosestElements.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N66PlusOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N701insertIntoBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N704search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N705MyHashSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N706MyHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N70climbStairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N724FindPivotIndex.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N733FloodFill.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N739DailyTemptemer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N744nextGreatestLetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N746minCostClimbingStairs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N747LargestNumberAtLeastTwiceOfOthers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N771numJewelsInStones.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N841KeysAndRooms.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N91numDecodings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N932beautifulArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N94BinaryTreeInorderTraversal$TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/N94BinaryTreeInorderTraversal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NaddTwoNumbers.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NfindDuplicate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NisSymmetric.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NisValidBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NisValidSudoku.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/Nissomorphic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NkClosest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NlengthOfLongestSubString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NmySqrt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NsearchBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/NsearchRange.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/TreeNode1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/src/removeOuterParentheses.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,44 +141,54 @@
     <session id="326753173">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="1" />
-          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.10" value="2" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="126" />
+          <entry key="java" value="132" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="126" />
+          <entry key="JAVA" value="132" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="19539" />
+          <entry key="java" value="23369" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="19539" />
+          <entry key="JAVA" value="23369" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sumRootToLeaf.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/N121maxProfit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" selection-start-line="4" selection-end-line="24" selection-end-column="5" />
+            <state relative-caret-position="395">
+              <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/N309maxProfit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="292">
+              <caret line="36" column="44" lean-forward="true" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -81,12 +217,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/N153findMin.java" />
-        <option value="$PROJECT_DIR$/src/N145postorderTraversal.java" />
-        <option value="$PROJECT_DIR$/src/N154findMin.java" />
-        <option value="$PROJECT_DIR$/src/N155minStack.java" />
-        <option value="$PROJECT_DIR$/src/N162findPeakElement.java" />
-        <option value="$PROJECT_DIR$/src/N173BSTIterator.java" />
         <option value="$PROJECT_DIR$/src/N200NumLand.java" />
         <option value="$PROJECT_DIR$/src/N202isHappy.java" />
         <option value="$PROJECT_DIR$/src/N225ImplementStackUsingQueues.java" />
@@ -132,6 +262,12 @@
         <option value="$PROJECT_DIR$/src/Souly.java" />
         <option value="$PROJECT_DIR$/src/removeOuterParentheses.java" />
         <option value="$PROJECT_DIR$/src/sumRootToLeaf.java" />
+        <option value="$PROJECT_DIR$/src/NnthUglyNumber.java" />
+        <option value="$PROJECT_DIR$/src/N264nthUglyNumber.java" />
+        <option value="$PROJECT_DIR$/src/NlengthOfLIS.java" />
+        <option value="$PROJECT_DIR$/src/NNumMatrix.java" />
+        <option value="$PROJECT_DIR$/src/NmaxProfit.java" />
+        <option value="$PROJECT_DIR$/src/N309maxProfit.java" />
       </list>
     </option>
   </component>
@@ -142,7 +278,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -155,7 +291,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -172,13 +307,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554634867668" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554811576513" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -199,22 +335,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.removeOuterParentheses">
-    <configuration name="N221maximalSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.N221maximalSquare" />
-      <module name="LeeCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interview.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NmaximalSquare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.NmaximalSquare" />
+  <component name="RunManager" selected="Application.NmaxProfit">
+    <configuration name="NNumMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.NNumMatrix" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
@@ -226,8 +349,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nrob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Nrob" />
+    <configuration name="NlengthOfLIS" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.NlengthOfLIS" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
@@ -239,12 +362,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interview.Solution" />
+    <configuration name="NmaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.NmaxProfit" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interview.*" />
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NnthUglyNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.NnthUglyNumber" />
+      <module name="LeeCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -266,19 +402,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Nrob" />
-      <item itemvalue="Application.NmaximalSquare" />
-      <item itemvalue="Application.N221maximalSquare" />
-      <item itemvalue="Application.Solution" />
       <item itemvalue="Application.removeOuterParentheses" />
+      <item itemvalue="Application.NnthUglyNumber" />
+      <item itemvalue="Application.NlengthOfLIS" />
+      <item itemvalue="Application.NNumMatrix" />
+      <item itemvalue="Application.NmaxProfit" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NmaxProfit" />
+        <item itemvalue="Application.NNumMatrix" />
+        <item itemvalue="Application.NlengthOfLIS" />
+        <item itemvalue="Application.NnthUglyNumber" />
         <item itemvalue="Application.removeOuterParentheses" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.N221maximalSquare" />
-        <item itemvalue="Application.NmaximalSquare" />
-        <item itemvalue="Application.Nrob" />
       </list>
     </recent_temporary>
   </component>
@@ -304,17 +440,20 @@
       <workItem from="1553416964569" duration="1194000" />
       <workItem from="1553841989940" duration="22020000" />
       <workItem from="1554172652459" duration="57377000" />
-      <workItem from="1554460975008" duration="15720000" />
+      <workItem from="1554460975008" duration="15880000" />
+      <workItem from="1554722267520" duration="611000" />
+      <workItem from="1554792103987" duration="15610000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="411921000" />
+    <option name="totallyTimeSpent" value="428302000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18976545" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19402985" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24896266" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -325,11 +464,11 @@
       <window_info anchor="bottom" id="Messages" order="1" sideWeight="0.4978678" weight="0.2660152" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.1324647" />
       <window_info anchor="bottom" id="Event Log" order="5" sideWeight="0.5021322" side_tool="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="8" visible="true" weight="0.27687296" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
@@ -343,7 +482,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="10" visible="true" weight="0.27238807" />
+      <window_info active="true" anchor="right" id="Run" order="10" visible="true" weight="0.26865673" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -353,69 +492,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/N162findPeakElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="457">
-          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/N173BSTIterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="22" column="23" lean-forward="true" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/N225ImplementStackUsingQueues.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-353">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-          <folding>
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-            <element signature="e#980#981#0" expanded="true" />
-            <element signature="e#1018#1019#0" expanded="true" />
-            <element signature="e#1042#1043#0" expanded="true" />
-            <element signature="e#1077#1078#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/N202isHappy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="29" column="20" lean-forward="true" selection-start-line="29" selection-start-column="20" selection-end-line="29" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/N200NumLand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-929">
-          <caret line="76" column="40" selection-start-line="76" selection-start-column="40" selection-end-line="76" selection-end-column="40" />
-          <folding>
-            <element signature="e#281#282#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#1154#1155#0" expanded="true" />
-            <element signature="e#1187#1188#0" expanded="true" />
-            <element signature="e#1218#1219#0" expanded="true" />
-            <element signature="e#1268#1269#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/N232ImplementQueuesUsingStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="11" column="5" lean-forward="true" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-          <folding>
-            <element signature="e#310#311#0" expanded="true" />
-            <element signature="e#339#340#0" expanded="true" />
-            <element signature="e#1150#1151#0" expanded="true" />
-            <element signature="e#1188#1189#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -563,9 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="601">
           <caret line="61" column="43" lean-forward="true" selection-start-line="61" selection-start-column="43" selection-end-line="61" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -650,15 +727,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1414">
           <caret line="1047" column="18" selection-start-line="1047" selection-start-column="11" selection-end-line="1047" selection-end-column="18" />
-          <folding>
-            <element signature="e#4677#4678#0" expanded="true" />
-            <element signature="e#4714#4715#0" expanded="true" />
-            <element signature="e#5687#5688#0" expanded="true" />
-            <element signature="e#5750#5751#0" expanded="true" />
-            <element signature="e#75665#77163#0" />
-            <element signature="e#113343#113344#0" expanded="true" />
-            <element signature="e#113370#113371#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -711,20 +779,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Souly.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interview/main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="11" lean-forward="true" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Souly.java" />
+    <entry file="file://$PROJECT_DIR$/interview/main.java" />
     <entry file="file://$PROJECT_DIR$/src/N5016removeOuterParentheses.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1368">
@@ -741,8 +797,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sumRootToLeaf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" selection-start-line="4" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="468">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/N264nthUglyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="49" column="38" selection-start-line="49" selection-start-column="38" selection-end-line="49" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/N304NumMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/N300lengthOfLIS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="34" column="9" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/N121maxProfit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/N309maxProfit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="292">
+          <caret line="36" column="44" lean-forward="true" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
         </state>
       </provider>
     </entry>
