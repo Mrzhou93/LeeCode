@@ -26,7 +26,7 @@ public class N309maxProfit {
             for (int j = i - 1; j > 0; j--){        // j天的时候买
                 if (prices[i - 1] > prices[j - 1]){
                     int tmp = (j > 2)? dp[j - 2]: 0;
-                    dp[i] = Math.max(dp[i], tmp+prices[i - 1] - prices[j - 1]);
+                    dp[i] = Math.max(dp[i], tmp + prices[i - 1] - prices[j - 1]);
                 }
             }
         }
