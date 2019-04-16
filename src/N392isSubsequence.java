@@ -46,7 +46,6 @@ public class N392isSubsequence {
 
     public static void main(String[] args){
 
-
         N392isSubsequence s = new N392isSubsequence();
         System.out.println(s.isSubsequence("axc", "ahbgdc"));
         System.out.println(s.isSubsequence( "abc", "ahbgdc"));
