@@ -15,7 +15,7 @@
     <window id="1">
       <content type="file-editors">
         <state>
-          <leaf>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
             <file pinned="false" current-in-tab="true">
               <entry file="file://$PROJECT_DIR$/src/N406reconstrictQueue.java">
                 <provider selected="true" editor-type-id="text-editor">
@@ -45,29 +45,30 @@
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="184" />
+          <entry key="java" value="188" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="184" />
+          <entry key="JAVA" value="188" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="39489" />
+          <entry key="java" value="41740" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="39489" />
+          <entry key="JAVA" value="41740" />
         </counts>
       </usages-collector>
     </session>
@@ -75,10 +76,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/NisPossible.java">
+        <entry file="file://$PROJECT_DIR$/src/NletterCombinations.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="70" column="9" lean-forward="true" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+            <state relative-caret-position="583">
+              <caret line="42" column="77" selection-start-line="42" selection-start-column="77" selection-end-line="42" selection-end-column="77" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -110,10 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/NmaxProduct.java" />
-        <option value="$PROJECT_DIR$/src/N152maxProduct.java" />
-        <option value="$PROJECT_DIR$/src/N139workBreak.java" />
-        <option value="$PROJECT_DIR$/src/N198rob.java" />
         <option value="$PROJECT_DIR$/src/Nrob.java" />
         <option value="$PROJECT_DIR$/src/N213rob.java" />
         <option value="$PROJECT_DIR$/src/NmaximalSquare.java" />
@@ -161,6 +158,10 @@
         <option value="$PROJECT_DIR$/src/NpredictPartyVictory.java" />
         <option value="$PROJECT_DIR$/src/N649predictPartyVictory.java" />
         <option value="$PROJECT_DIR$/src/NisPossible.java" />
+        <option value="$PROJECT_DIR$/src/NreadBinaryWatch.java" />
+        <option value="$PROJECT_DIR$/src/N401readBinaryWatch.java" />
+        <option value="$PROJECT_DIR$/src/NletterCasePermutation.java" />
+        <option value="$PROJECT_DIR$/src/NletterCombinations.java" />
       </list>
     </option>
   </component>
@@ -170,7 +171,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="2085" />
     <option name="y" value="2" />
     <option name="width" value="1936" />
@@ -207,7 +208,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555584278812" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555749183619" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -228,22 +229,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NisPossible">
+  <component name="RunManager" selected="Application.NletterCombinations">
     <configuration name="N649predictPartyVictory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.N649predictPartyVictory" />
-      <module name="LeeCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="NeraseOverlapIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.NeraseOverlapIntervals" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
@@ -268,8 +256,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NleastInterval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.NleastInterval" />
+    <configuration name="NletterCasePermutation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.NletterCasePermutation" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
@@ -281,8 +269,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NpredictPartyVictory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.NpredictPartyVictory" />
+    <configuration name="NletterCombinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.NletterCombinations" />
+      <module name="LeeCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NreadBinaryWatch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.NreadBinaryWatch" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
@@ -295,19 +296,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NeraseOverlapIntervals" />
-      <item itemvalue="Application.NleastInterval" />
-      <item itemvalue="Application.NpredictPartyVictory" />
       <item itemvalue="Application.N649predictPartyVictory" />
       <item itemvalue="Application.NisPossible" />
+      <item itemvalue="Application.NreadBinaryWatch" />
+      <item itemvalue="Application.NletterCasePermutation" />
+      <item itemvalue="Application.NletterCombinations" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NletterCombinations" />
+        <item itemvalue="Application.NletterCasePermutation" />
+        <item itemvalue="Application.NreadBinaryWatch" />
         <item itemvalue="Application.NisPossible" />
         <item itemvalue="Application.N649predictPartyVictory" />
-        <item itemvalue="Application.NpredictPartyVictory" />
-        <item itemvalue="Application.NleastInterval" />
-        <item itemvalue="Application.NeraseOverlapIntervals" />
       </list>
     </recent_temporary>
   </component>
@@ -340,17 +341,18 @@
       <workItem from="1554991125837" duration="875000" />
       <workItem from="1555069882696" duration="49332000" />
       <workItem from="1555492470854" duration="11166000" />
+      <workItem from="1555738617937" duration="9710000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="504210000" />
+    <option name="totallyTimeSpent" value="513920000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18017058" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18176973" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24896266" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -379,7 +381,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="10" visible="true" weight="0.3608742" />
+      <window_info active="true" anchor="right" id="Run" order="10" visible="true" weight="0.32356077" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -389,27 +391,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/N139workBreak.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/N213rob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/N198rob.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="46" column="35" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/N62uniquePaths.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="810">
@@ -625,13 +606,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/NassignBikes.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="34" column="2" lean-forward="true" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-512">
@@ -667,16 +641,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="900">
           <caret line="50" column="29" lean-forward="true" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/N406reconstrictQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" selection-start-line="28" selection-end-line="33" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -728,10 +692,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NisPossible.java">
+    <entry file="file://$PROJECT_DIR$/src/NisPossible.java" />
+    <entry file="file://$PROJECT_DIR$/src/N406reconstrictQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="70" column="9" lean-forward="true" selection-start-line="70" selection-start-column="9" selection-end-line="70" selection-end-column="9" />
+        <state relative-caret-position="504">
+          <caret line="28" selection-start-line="28" selection-end-line="33" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/N401readBinaryWatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="46" column="23" lean-forward="true" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/N784letterCasePermutation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="110" column="17" selection-start-line="110" selection-start-column="17" selection-end-line="110" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NletterCombinations.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="583">
+          <caret line="42" column="77" selection-start-line="42" selection-start-column="77" selection-end-line="42" selection-end-column="77" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
