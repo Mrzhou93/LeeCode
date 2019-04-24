@@ -21,7 +21,7 @@ import java.util.List;
  * S 仅由数字和字母组成。
  * */
 
-public class N784letterCasePermutation {
+public class N784letterCasePermutation extends  Object{
     public List<String> letterCasePermutation(String S) {
 
         List<String> res = new ArrayList<>();

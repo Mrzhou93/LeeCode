@@ -39,11 +39,13 @@ public class N1029twoCitySchedCost {
 //            System.out.println("["+costs[i][0]+","+costs[i][1]+"]");
 
         int mid = costs.length / 2;
-        int count = 0;
+
         for (int i = 0; i < mid; i++){
             res += costs[i][1];
             res += costs[mid + i][0];
         }
+
+//        System.out.println(Arrays.deepToString(costs));
 
         return res;
     }
@@ -61,7 +63,7 @@ public class N1029twoCitySchedCost {
 
         System.out.println(s.twoCitySchedCost(num));
 //        System.out.println(num1.length);
-//        System.out.println(s.twoCitySchedCost(num1));
+        System.out.println(s.twoCitySchedCost(num1));
 //        System.out.println(s.twoCitySchedCost(num2));
     }
 }
