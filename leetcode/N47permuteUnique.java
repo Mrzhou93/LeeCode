@@ -22,12 +22,12 @@ public class N47permuteUnique {
         List<List<Integer>> res = new ArrayList<>();
         boolean[] used = new boolean[nums.length];
 
-        dfs(res, new ArrayList<>(), nums, used, 0);
+        dfs(res, new ArrayList<>(), nums, used);
 
         return res;
     }
 
-    private void dfs(List<List<Integer>> res, List<Integer> partRes, int[] nums, boolean[] used, int index){
+    private void dfs(List<List<Integer>> res, List<Integer> partRes, int[] nums, boolean[] used){
         if (partRes.size() == nums.length && !res.contains(partRes)){
             res.add(partRes);
             return;
@@ -44,7 +44,7 @@ public class N47permuteUnique {
                 List<Integer> list = new ArrayList<>(partRes);
                 list.add(nums[i]);
                 partUsed[i] = true;
-                dfs(res, list, nums, partUsed, i);
+                dfs(res, list, nums, partUsed);
                 partUsed[i] = false;
             }
         }
