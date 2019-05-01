@@ -6,6 +6,18 @@ import java.util.List;
 import java.util.Stack;
 
 /**
+ * 给定一个二叉树，返回它的中序 遍历。
+ *
+ * 示例:
+ *
+ * 输入: [1,null,2,3]
+ *    1
+ *     \
+ *      2
+ *     /
+ *    3
+ *
+ * 输出: [1,3,2]
  * Definition for a binary tree node.
  * public class TreeNode {
  *     int val;
@@ -14,13 +26,14 @@ import java.util.Stack;
  *     TreeNode(int x) { val = x; }
  * }
  */
-class N94BinaryTreeInorderTraversal {
+
+public class N94BinaryTreeInorderTraversal {
 
     public class TreeNode {
-     int val;
-     TreeNode left;
-    TreeNode right;
-    TreeNode(int x) { val = x; }
+        int val;
+        TreeNode left;
+        TreeNode right;
+        TreeNode(int x) { val = x; }
     }
 
     public List<Integer> inorderTraversalRecursion(TreeNode root) {
@@ -53,14 +66,12 @@ class N94BinaryTreeInorderTraversal {
             if (topNode != null){
                 stack.push(topNode);
                 topNode = topNode.left;
-            }
-
-            else{
+            } else{
                 topNode = stack.pop();
                 list.add(topNode.val);
                 topNode = topNode.right;
             }
         }
-    return list;
+        return list;
     }
 }

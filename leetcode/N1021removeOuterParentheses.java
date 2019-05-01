@@ -40,7 +40,7 @@ import java.util.Stack;
  * S 是一个有效括号字符串
  * */
 
-class N5016removeOuterParentheses {
+class N1021removeOuterParentheses {
     public String removeOuterParentheses(String S) {
         Stack<Character> stack = new Stack<>();
         int index[] = new int[S.length()];
@@ -74,7 +74,7 @@ class N5016removeOuterParentheses {
         String s2 = "(()())(())(()(()))";
         String s3 = "(()(()))";
 
-        N5016removeOuterParentheses s = new N5016removeOuterParentheses();
+        N1021removeOuterParentheses s = new N1021removeOuterParentheses();
         System.out.println(s.removeOuterParentheses(s2));
     }
 }
