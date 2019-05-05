@@ -26,7 +26,7 @@ import java.util.Arrays;
  * 解释：我们无法进行任何移动。
  * */
 
-public class N5039numMovesStones {
+public class N1033numMovesStones {
     public int[] numMovesStones(int a, int b, int c) {
         int[] place = new int[]{a, b, c};
         Arrays.sort(place);
@@ -51,7 +51,7 @@ public class N5039numMovesStones {
 
 
     public static void main(String[] args){
-        N5039numMovesStones s = new N5039numMovesStones();
+        N1033numMovesStones s = new N1033numMovesStones();
 
         System.out.println(Arrays.toString(s.numMovesStones(1, 2, 5))); // [1, 2]
         System.out.println(Arrays.toString(s.numMovesStones(4, 3, 2))); // [0, 0]

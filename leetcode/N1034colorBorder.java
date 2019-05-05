@@ -37,7 +37,7 @@ import java.util.*;
  * 1 <= color <= 1000
  * */
 
-public class N5040colorBorder {
+public class N1034colorBorder {
 
     private int[][] direct = new int[][]{{0, 1}, {0, -1},{1, 0}, {-1, 0}};
 
@@ -82,7 +82,7 @@ public class N5040colorBorder {
 
 
     public static void main(String [] args){
-        N5040colorBorder s = new N5040colorBorder();
+        N1034colorBorder s = new N1034colorBorder();
 
         int[][] grid = new int[][]{{1, 1},{1, 2}};
         int[][] grid1 = new int[][]{{1, 2, 2},{2, 3, 2}};
