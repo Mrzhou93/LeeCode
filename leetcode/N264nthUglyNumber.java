@@ -2,7 +2,6 @@ package leetcode;
 
 /**
  * 编写一个程序，找出第 n 个丑数。
- *
  * 丑数就是只包含质因数 2, 3, 5 的正整数。
  *
  * 示例:
@@ -18,6 +17,7 @@ package leetcode;
  * */
 
 class N264nthUglyNumber {
+
     public int nthUglyNumber(int n) {
         if (n <= 0)
             return -1;
@@ -29,7 +29,7 @@ class N264nthUglyNumber {
         dp[0] = 1;
         int index[] = {0, 0, 0};
 
-        for (int i = 1; i< n; i++){
+        for (int i = 1; i < n; i++){
             dp[i] = Math.min(Math.min(dp[index[0]] * 2, dp[index[1]] * 3), dp[index[2]] * 5);
 
             if (dp[i] == dp[index[0]] * 2)
@@ -38,9 +38,6 @@ class N264nthUglyNumber {
                 index[1]++;
             if (dp[i] == dp[index[2]] * 5)
                 index[2]++;
-
-//            System.out.println(i + "   "+dp[i]+"    "+index[0] + ", " + index[1]+", " + index[2]);
-
         }
         return dp[n - 1];
     }
