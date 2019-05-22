@@ -20,7 +20,7 @@ import java.util.Comparator;
  * 输出：false
  * */
 
-public class N5051isBoomerang {
+public class N1037isBoomerang {
     public boolean isBoomerang(int[][] points) {
 
         Arrays.sort(points, new Comparator<int[]>() {
@@ -62,7 +62,7 @@ public class N5051isBoomerang {
 
 
     public static void main(String[] args){
-        N5051isBoomerang s = new N5051isBoomerang();
+        N1037isBoomerang s = new N1037isBoomerang();
 
 //        System.out.println(s.isBoomerang(new int[][]{{1, 1}, {2, 3}, {3, 2}})); // T
 //        System.out.println(s.isBoomerang(new int[][]{{1, 1}, {3, 3}, {2, 2}})); // F

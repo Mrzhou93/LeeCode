@@ -26,7 +26,7 @@ package leetcode;
  * 给定的树为二叉搜索树。
  * */
 
-public class N5050bstToGst {
+public class N1038bstToGst {
     public TreeNode bstToGst(TreeNode root) {
         cal(root, 0);
         return root;

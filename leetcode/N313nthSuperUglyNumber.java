@@ -1,5 +1,7 @@
 package leetcode;
 
+import java.util.Arrays;
+
 /**
  * 编写一段程序来查找第 n 个超级丑数。
  *
@@ -23,9 +25,28 @@ public class N313nthSuperUglyNumber {
     public int nthSuperUglyNumber(int n, int[] primes) {
         int[] dp = new int[n];
         dp[0] = 1;
+        int[] index= new int[primes.length];
 
         for (int i = 1; i < n; i++){
+            int smallestUglyNum = primes[0] * dp[index[0]];
 
+            for (int j = 1; j < primes.length; j++){
+                if (primes[j] * dp[index[j]] < smallestUglyNum){
+                    smallestUglyNum = primes[j] * dp[index[j]];
+                }
+            }
+            for (int j = 0; j < primes.length; j++){
+                if (smallestUglyNum == primes[j] * dp[index[j]]){
+                    index[j]++;
+                }
+            }
+            dp[i] = smallestUglyNum;
         }
+        return dp[n - 1];
+    }
+
+    public static void main(String[] args){
+        N313nthSuperUglyNumber s= new N313nthSuperUglyNumber();
+        System.out.println(s.nthSuperUglyNumber(12, new int[]{2,7,13,19}));
     }
 }

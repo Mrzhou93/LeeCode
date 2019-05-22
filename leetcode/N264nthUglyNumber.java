@@ -1,5 +1,7 @@
 package leetcode;
 
+import java.util.Arrays;
+
 /**
  * 编写一个程序，找出第 n 个丑数。
  * 丑数就是只包含质因数 2, 3, 5 的正整数。
@@ -38,6 +40,10 @@ class N264nthUglyNumber {
                 index[1]++;
             if (dp[i] == dp[index[2]] * 5)
                 index[2]++;
+
+            System.out.println("========");
+            System.out.println(Arrays.toString(dp));
+            System.out.println(Arrays.toString(index));
         }
         return dp[n - 1];
     }
@@ -45,8 +51,8 @@ class N264nthUglyNumber {
 
     public static void main(String [] args){
         N264nthUglyNumber s = new N264nthUglyNumber();
-        System.out.println(s.nthUglyNumber(10));        // 12
-        System.out.println(s.nthUglyNumber(11));        // 15
-        System.out.println(s.nthUglyNumber(12));        // 16
+        System.out.println(s.nthUglyNumber(10) == 12);        // 12
+//        System.out.println(s.nthUglyNumber(11) == 15);        // 15
+//        System.out.println(s.nthUglyNumber(12) == 16);        // 16
     }
 }
