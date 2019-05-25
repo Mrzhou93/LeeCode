@@ -33,12 +33,24 @@ class N406reconstrictQueue {
             }
         });
 
+//        System.out.println(Arrays.deepToString(people));
+
         List<int[]> res = new ArrayList<>();
 
-        for (int[] i: people)
+        for (int[] i: people) {
             res.add(i[1], i);
+//            System.out.println(Arrays.deepToString(res.toArray()));
+        }
 
         return res.toArray(new int[people.length][2]);
+    }
+
+    public static void main(String[] args){
+        N406reconstrictQueue s = new N406reconstrictQueue();
+
+        int[][] peoples = new int[][]{{7, 0}, {4, 4}, {7, 1}, {5, 0}, {6, 1}, {5, 2}};
+
+        System.out.println(Arrays.deepToString(s.reconstructQueue(peoples)));
     }
 }
 

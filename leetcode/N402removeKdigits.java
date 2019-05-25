@@ -52,21 +52,18 @@ class N402removeKdigits {
     public String removeKdigits1(String num, int k) {
 
         if (num.charAt(0) == '0' && !num.equals("0"))
-            return removeKdigits(num.substring(1), k);
+            return removeKdigits1(num.substring(1), k);
 
         if (num.length() == k)
             return "0";
 
         if (k > 0) {
-
             int i = 0;
             while (i + 1 < num.length() && num.charAt(i) <= num.charAt(i + 1))
                 i++;
 
-            return removeKdigits(num.substring(0, i) + num.substring(i + 1), k-1);
+            return removeKdigits1(num.substring(0, i) + num.substring(i + 1), k-1);
         }
-
-
         return num;
     }
 

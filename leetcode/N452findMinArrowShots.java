@@ -45,10 +45,7 @@ class N452findMinArrowShots {
             }
         }
 
-        for (int i = 0; i < points.length; i++){
-            System.out.print("["+points[i][0]+","+points[i][1]+"]");
-        }
-        System.out.println();
+        System.out.println(Arrays.deepToString(points));
 
         return res;
     }

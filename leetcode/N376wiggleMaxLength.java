@@ -1,7 +1,8 @@
 package leetcode;
 
 /**
- * 如果连续数字之间的差严格地在正数和负数之间交替，则数字序列称为摆动序列。第一个差（如果存在的话）可能是正数或负数。
+ * 如果连续数字之间的差严格地在正数和负数之间交替，则数字序列称为摆动序列。
+ * 第一个差（如果存在的话）可能是正数或负数。
  * 少于两个元素的序列也是摆动序列。
  *
  * 例如， [1,7,4,9,2,5] 是一个摆动序列，因为差值 (6,-3,5,-7,3) 是正负交替出现的。
@@ -16,6 +17,7 @@ package leetcode;
  * 输入: [1,7,4,9,2,5]
  * 输出: 6
  * 解释: 整个序列均为摆动序列。
+ *
  * 示例 2:
  *
  * 输入: [1,17,5,10,13,15,10,5,16,8]
@@ -41,9 +43,9 @@ class N376wiggleMaxLength {
             else if (nums[i - 1] > nums[i])
                 down = up + 1;
         }
-
         return Math.max(up,down);
     }
+
     public static void main(String[] args){
         N376wiggleMaxLength s = new N376wiggleMaxLength();
 
