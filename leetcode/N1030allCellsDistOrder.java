@@ -12,29 +12,24 @@ import java.util.Comparator;
  * 其中，两单元格(r1, c1) 和 (r2, c2) 之间的距离是曼哈顿距离，|r1 - r2| + |c1 - c2|。
  * （你可以按任何满足此条件的顺序返回答案。）
  *
- *
- *
  * 示例 1：
- *
  * 输入：R = 1, C = 2, r0 = 0, c0 = 0
  * 输出：[[0,0],[0,1]]
  * 解释：从 (r0, c0) 到其他单元格的距离为：[0,1]
- * 示例 2：
  *
+ * 示例 2：
  * 输入：R = 2, C = 2, r0 = 0, c0 = 1
  * 输出：[[0,1],[0,0],[1,1],[1,0]]
  * 解释：从 (r0, c0) 到其他单元格的距离为：[0,1,1,2]
  * [[0,1],[1,1],[0,0],[1,0]] 也会被视作正确答案。
- * 示例 3：
  *
+ * 示例 3：
  * 输入：R = 2, C = 3, r0 = 1, c0 = 2
  * 输出：[[1,2],[0,2],[1,1],[0,1],[1,0],[0,0]]
  * 解释：从 (r0, c0) 到其他单元格的距离为：[0,1,1,2,2,3]
  * 其他满足题目要求的答案也会被视为正确，例如 [[1,2],[1,1],[0,2],[1,0],[0,1],[0,0]]。
  *
- *
  * 提示：
- *
  * 1 <= R <= 100
  * 1 <= C <= 100
  * 0 <= r0 < R
@@ -55,9 +50,6 @@ public class N1030allCellsDistOrder {
                 k++;
             }
         }
-//
-//        for (int i = 0; i < dist.length; i++)
-//            System.out.println("["+dist[i][0]+','+dist[i][1]+']');
 
         Arrays.sort(dist, new Comparator<int[]>() {
             @Override
@@ -66,20 +58,14 @@ public class N1030allCellsDistOrder {
             }
         });
 
-        System.out.println("===========");
-        for (int i = 0; i < dist.length; i++)
-            System.out.println("["+dist[i][0]+','+dist[i][1]+']');
-        System.out.println("===========");
+        System.out.println(Arrays.deepToString(res));
 
         for (int i = 0; i < dist.length; i++){
             res[i][0] = dist[i][0] / 1000;
             res[i][1] = dist[i][0] % 1000;
         }
 
-        System.out.println("===========");
-        for (int i = 0; i < dist.length; i++)
-            System.out.println("["+res[i][0]+','+res[i][1]+']');
-        System.out.println("===========");
+        System.out.println(Arrays.deepToString(res));
 
         return res;
     }

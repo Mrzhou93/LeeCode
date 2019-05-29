@@ -28,7 +28,8 @@ class N350intersect {
     }
 
 
-    public int[] intersection1(int[] num1, int[] num2) {  // 方法未完成，（先排序，在二分查找有无此元素）
+    public int[] intersection1(int[] num1, int[] num2) {
+        // 方法未完成，（先排序，在二分查找有无此元素）
 
         if (num1.length < num2.length){
             int[] temp = num2;
