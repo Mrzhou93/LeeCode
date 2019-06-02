@@ -30,7 +30,7 @@ public class N220containsNearbyAlmostDuplicate {
 
         TreeMap<Integer,Integer>map = new TreeMap();
 
-        for(int i = 0;i <= k && i < nums.length ;i++)
+        for(int i = 0; i <= k && i < nums.length; i++)
         {
             Map.Entry<Integer,Integer> ceiling = map.ceilingEntry(nums[i]);
             Map.Entry<Integer,Integer> floor = map.floorEntry(nums[i]);
@@ -56,7 +56,6 @@ public class N220containsNearbyAlmostDuplicate {
             map.put(nums[i],i);
         }
         return false;
-
     }
 
     public static void main(String[] args){
