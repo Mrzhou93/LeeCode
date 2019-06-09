@@ -33,7 +33,7 @@ import java.util.Map;
  * matrix[i][j] 为 0 或 1
  */
 
-public class N5077maxEqualRowsAfterFlips {
+public class N1072maxEqualRowsAfterFlips {
     public int maxEqualRowsAfterFlips(int[][] matrix) {
         int n = matrix.length;
         int m = matrix[0].length;
@@ -61,7 +61,7 @@ public class N5077maxEqualRowsAfterFlips {
     }
 
     public static void main(String[] args){
-        N5077maxEqualRowsAfterFlips s = new N5077maxEqualRowsAfterFlips();
+        N1072maxEqualRowsAfterFlips s = new N1072maxEqualRowsAfterFlips();
 
 //        System.out.println(s.maxEqualRowsAfterFlips(new  int[][]{{0, 1}, {1, 1}}));
 //        System.out.println(s.maxEqualRowsAfterFlips(new  int[][]{{0, 1}, {1, 0}}));

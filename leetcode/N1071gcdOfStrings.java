@@ -28,7 +28,7 @@ package leetcode;
  * str1[i] 和 str2[i] 为大写英文字母
  */
 
-public class N5076gcdOfStrings {
+public class N1071gcdOfStrings {
     public String gcdOfStrings(String str1, String str2) {
         while (!str1.equals("") && !str2.equals("")){
             if (str2.length() > str1.length()){
@@ -47,7 +47,7 @@ public class N5076gcdOfStrings {
     }
 
     public static void main(String[] args){
-        N5076gcdOfStrings s = new N5076gcdOfStrings();
+        N1071gcdOfStrings s = new N1071gcdOfStrings();
         System.out.println(s.gcdOfStrings("ABCABC", "ABC"));
         System.out.println(s.gcdOfStrings("ABABAB", "ABAB"));
         System.out.println(s.gcdOfStrings("LEET", "CODE"));
