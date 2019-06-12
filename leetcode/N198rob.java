@@ -26,7 +26,7 @@ class N198rob {
         int max = 0;
 
         for (int i = 0; i< nums.length; i++){
-            System.out.println("i="+i);
+//            System.out.println("i="+i);
             if (i == 0) {
                 partMax[i] = nums[0];
                 max = nums[0];
