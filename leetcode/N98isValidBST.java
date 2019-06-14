@@ -30,7 +30,7 @@ package leetcode;
 
 class N98isValidBST {
 
-    private double last =  - Double.MAX_VALUE;
+    private double last = - Double.MAX_VALUE;
 
     public boolean isValidBST(TreeNode root) {
         if (root == null)

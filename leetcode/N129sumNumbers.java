@@ -64,7 +64,7 @@ public class N129sumNumbers {
 
         sb.append(root.val);
         if (root.left == null && root.right == null){
-            ans.add(sb.toString());
+            ans.add(sb.toString());  // deep copy
         } else {
             dfs(ans, root.left, sb);
             dfs(ans, root.right, sb);

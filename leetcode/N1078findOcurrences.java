@@ -29,7 +29,7 @@ import java.util.List;
  * first 和 second 由小写英文字母组成
  */
 
-public class N5083findOcurrences {
+public class N1078findOcurrences {
     public String[] findOcurrences(String text, String first, String second) {
         String substr = first + " " + second;
 
@@ -60,7 +60,7 @@ public class N5083findOcurrences {
     }
 
     public static void main(String[] args){
-        N5083findOcurrences s = new N5083findOcurrences();
+        N1078findOcurrences s = new N1078findOcurrences();
 
 //        System.out.println(
 //                Arrays.toString(s.findOcurrences("alice is a good girl she is a good student",
