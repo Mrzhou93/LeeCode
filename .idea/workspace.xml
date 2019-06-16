@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a4dc496a-fb38-426b-9489-bd8983cdc099" name="Default Changelist" comment="Update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N129sumNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/N129sumNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N5083findOcurrences.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/N1078findOcurrences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N5087numTilePossibilities.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/N1079numTilePossibilities.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N733FloodFill.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/N733FloodFill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N98isValidBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/N98isValidBST.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,7 +17,7 @@
     <session id="326753173">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="28" />
+          <entry key="project.closed" value="30" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.10" value="5" />
           <entry key="project.open.time.11" value="3" />
@@ -32,13 +27,13 @@
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.29" value="1" />
-          <entry key="project.open.time.3" value="3" />
+          <entry key="project.open.time.3" value="4" />
           <entry key="project.open.time.4" value="2" />
           <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="6" />
           <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="34" />
+          <entry key="project.opened" value="35" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -47,56 +42,34 @@
           <entry key="gitattributes" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="iml" value="1" />
-          <entry key="java" value="534" />
+          <entry key="java" value="537" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="534" />
+          <entry key="JAVA" value="537" />
           <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="4" />
-          <entry key="java" value="99653" />
+          <entry key="java" value="101063" />
           <entry key="txt" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="99653" />
+          <entry key="JAVA" value="101063" />
           <entry key="PLAIN_TEXT" value="10" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/N130solve.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1197">
-              <caret line="63" column="26" lean-forward="true" selection-start-line="63" selection-start-column="26" selection-end-line="63" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/N127ladderLength.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
-              <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -125,8 +98,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/N101isSymmetric.java" />
-        <option value="$PROJECT_DIR$/leetcode/N104maxDepth.java" />
         <option value="$PROJECT_DIR$/leetcode/N107levelOrderBottom.java" />
         <option value="$PROJECT_DIR$/leetcode/N108sortedArrayToBST.java" />
         <option value="$PROJECT_DIR$/leetcode/N110isBalanced.java" />
@@ -176,6 +147,8 @@
         <option value="$PROJECT_DIR$/leetcode/N129sumNumbers.java" />
         <option value="$PROJECT_DIR$/leetcode/N130solve.java" />
         <option value="$PROJECT_DIR$/leetcode/N127ladderLength.java" />
+        <option value="$PROJECT_DIR$/leetcode/N1089duplicateZeros.java" />
+        <option value="$PROJECT_DIR$/leetcode/N1091shortestPathBinaryMatrix.java" />
       </list>
     </option>
   </component>
@@ -199,6 +172,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -228,13 +202,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560501862770" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560664670701" />
     <property name="last_opened_file_path" value="E:/StockWeApp/WX Applet/FianceProgram_JAVA" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -255,7 +228,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.N127ladderLength">
+  <component name="RunManager" selected="Application.N1091shortestPathBinaryMatrix">
+    <configuration name="N1089duplicateZeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.N1089duplicateZeros" />
+      <module name="LeeCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="N1091shortestPathBinaryMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.N1091shortestPathBinaryMatrix" />
+      <module name="LeeCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="N127ladderLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.N127ladderLength" />
       <module name="LeeCode" />
@@ -269,34 +268,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N198rob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.N198rob" />
-      <module name="LeeCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="N213rob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.N213rob" />
-      <module name="LeeCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="N5086smallestSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.N5086smallestSubsequence" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
@@ -323,18 +296,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.N5087numTilePossibilities" />
-      <item itemvalue="Application.N5086smallestSubsequence" />
-      <item itemvalue="Application.N198rob" />
       <item itemvalue="Application.N213rob" />
       <item itemvalue="Application.N127ladderLength" />
+      <item itemvalue="Application.N1089duplicateZeros" />
+      <item itemvalue="Application.N1091shortestPathBinaryMatrix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.N1091shortestPathBinaryMatrix" />
+        <item itemvalue="Application.N1089duplicateZeros" />
         <item itemvalue="Application.N127ladderLength" />
         <item itemvalue="Application.N5087numTilePossibilities" />
         <item itemvalue="Application.N213rob" />
-        <item itemvalue="Application.N198rob" />
-        <item itemvalue="Application.N5086smallestSubsequence" />
       </list>
     </recent_temporary>
   </component>
@@ -389,18 +362,18 @@
       <workItem from="1559633300158" duration="4274000" />
       <workItem from="1559717214683" duration="37414000" />
       <workItem from="1560319999328" duration="12935000" />
-      <workItem from="1560492586436" duration="8932000" />
+      <workItem from="1560492586436" duration="11491000" />
+      <workItem from="1560652082407" duration="6097000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="795240000" />
+    <option name="totallyTimeSpent" value="803896000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-69" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20139635" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20408164" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24896266" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -429,7 +402,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
-      <window_info active="true" anchor="right" id="Run" order="10" visible="true" weight="0.20461869" />
+      <window_info anchor="right" id="Run" order="10" weight="0.24543501" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -443,20 +416,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/N543diameterOfBinaryTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/N501findMode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="29" selection-start-line="29" selection-end-line="68" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/N538convertBST.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -815,9 +774,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/N1089duplicateZeros.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="649">
+          <caret line="46" column="9" lean-forward="true" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/N127ladderLength.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
+        <state relative-caret-position="285">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/N1091shortestPathBinaryMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1178">
           <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
           <folding>
             <element signature="imports" expanded="true" />
