@@ -51,12 +51,12 @@ public class N1079numTilePossibilities {
 //        List<String> list = new ArrayList<>();
 //        List<Character> last = new ArrayList<>();
 //
-//        dfs(list, visited, last, tiles, 0);
+//        backtrace(list, visited, last, tiles, 0);
 //
 //        return list.size();
 //    }
 //
-//    public void dfs(List<String> list, boolean[] visited, List<Character> lastStr, String tiles, int index){
+//    public void backtrace(List<String> list, boolean[] visited, List<Character> lastStr, String tiles, int index){
 //        if (!list.contains(lastStr.toString()) && lastStr.size() != 0)
 //            list.add(lastStr.toString());
 //
@@ -67,7 +67,7 @@ public class N1079numTilePossibilities {
 //
 //                lastStr.add(tiles.charAt(i));
 //                newList.add(tiles.charAt(i));
-//                dfs(list, visited, newList, tiles, index);
+//                backtrace(list, visited, newList, tiles, index);
 //                lastStr.remove(lastStr.size() - 1);
 //                visited[i] = false;
 //            }
