@@ -83,5 +83,6 @@ public class N547findCircleNum {
 
         System.out.println(s.findCircleNum(new int[][]{{1, 1, 0}, {1, 1, 0}, {0, 0, 1}}));
         System.out.println(s.findCircleNum(new int[][]{{1, 1, 0}, {1, 1, 1}, {0, 1, 1}}));
+        System.out.println(s.findCircleNum(new int[][]{{1, 1, 0}, {1, 0, 1}, {0, 1, 1}}));
     }
 }
