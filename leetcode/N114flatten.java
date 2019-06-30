@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.tree;
 
 /**
  * 给定一个二叉树，原地将它展开为链表。
@@ -26,7 +26,7 @@ package leetcode;
  */
 
 public class N114flatten {
-    public void flatten(TreeNode root) {
+    public void flatten(N94BinaryTreeInorderTraversal.TreeNode root) {
         if (root == null)
             return;
 

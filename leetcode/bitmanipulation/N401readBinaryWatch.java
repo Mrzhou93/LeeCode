@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.bitmanipulation;
 
 import java.util.ArrayList;
 import java.util.List;

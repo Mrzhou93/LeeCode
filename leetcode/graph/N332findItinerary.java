@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.graph;
 
 import java.util.*;
 
@@ -63,11 +63,11 @@ public class N332findItinerary {
         N332findItinerary s = new N332findItinerary();
 
         List<List<String>> in = new ArrayList<>();
-        List<String> f1 = new ArrayList<String>(); f1.add("JFK"); f1.add("SFO");
-        List<String> f2 = new ArrayList<String>(); f2.add("JFK"); f2.add("ATL");
-        List<String> f3 = new ArrayList<String>(); f3.add("SFO"); f3.add("ATL");
-        List<String> f4 = new ArrayList<String>(); f4.add("ATL"); f4.add("JFK");
-        List<String> f5 = new ArrayList<String>(); f5.add("ATL"); f5.add("SFO");
+        List<String> f1 = new ArrayList<>(); f1.add("JFK"); f1.add("SFO");
+        List<String> f2 = new ArrayList<>(); f2.add("JFK"); f2.add("ATL");
+        List<String> f3 = new ArrayList<>(); f3.add("SFO"); f3.add("ATL");
+        List<String> f4 = new ArrayList<>(); f4.add("ATL"); f4.add("JFK");
+        List<String> f5 = new ArrayList<>(); f5.add("ATL"); f5.add("SFO");
 
         in.add(f1);
         in.add(f2);

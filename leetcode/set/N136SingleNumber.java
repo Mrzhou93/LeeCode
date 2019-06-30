@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.set;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -21,7 +21,6 @@ import java.util.Set;
  */
 
 class N136SingleNumber {
-
     public int singleNumber(int[] nums){
 
         Set<Integer> myHashSet = new HashSet<>();
@@ -39,14 +38,6 @@ class N136SingleNumber {
                 return num;
         }
         return 0;
-    }
-
-    public int singleNumber1(int[] nums) {
-        int result=0;
-        for(int num: nums){
-            result ^= num;
-        }
-        return result;
     }
 
     public static void main(String[] args){

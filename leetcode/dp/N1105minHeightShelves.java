@@ -1,7 +1,4 @@
-package leetcode;
-
-import java.util.Arrays;
-import java.util.Comparator;
+package leetcode.dp;
 
 /**
  * 附近的家居城促销，你买回了一直心仪的可调节书架，打算把自己的书都整理到新的书架上。
@@ -39,29 +36,29 @@ import java.util.Comparator;
 
 public class N1105minHeightShelves {
     public int minHeightShelves ( int[][] books, int shelf_width){
-        int[] dp = new int[books.length];
-        dp[0] = books[0][0];
+        int[] dp = new int[books.length + 1];
+//        dp[0] = books[0][0];
 
-        for (int i = 0; i < books.length; i++){
+        for (int i = 1; i <= books.length; i++){
             int maxHigh = 0;
             int curWidth = 0;
 
-            for (int j = i; j >= 1; j--){
+            for (int j = i - 1; j >= 0; j--){
 //                System.out.println(j);
                 maxHigh = Math.max(maxHigh, books[j][1]);
                 curWidth += books[j][0];
                 if (curWidth > shelf_width)
                     break;
 
-                if (dp[i] == 0 || dp[i] > dp[j - 1] + maxHigh)
-                    dp[i] = dp[j - 1] + maxHigh;
+                if (dp[i] == 0 || dp[i] > dp[j] + maxHigh)
+                    dp[i] = dp[j] + maxHigh;
             }
 
         }
 
-        System.out.println(Arrays.toString(dp));
+//        System.out.println(Arrays.toString(dp));
 
-        return dp[books.length - 1];
+        return dp[books.length];
     }
 
     public static void main(String[] args){

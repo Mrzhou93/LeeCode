@@ -1,4 +1,4 @@
-package leetcode;
+package leetcode.topsort;
 
 /**
  * 在一个小镇里，按从 1 到 N 标记了 N 个人。传言称，这些人中有一个是小镇上的秘密法官。
@@ -50,7 +50,6 @@ public class N997findJudge {
     public int findJudge(int N, int[][] trust) {
         int[] outDegree = new int[N];
         int[] inDegree = new int[N];
-
 
         for (int[] t: trust){
             outDegree[t[0] - 1]++;
