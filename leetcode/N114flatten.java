@@ -25,8 +25,15 @@ package leetcode.tree;
  *           6
  */
 
+class TreeNode {
+    int val;
+    TreeNode left;
+    TreeNode right;
+    TreeNode(int x) { val = x; }
+}
+
 public class N114flatten {
-    public void flatten(N94BinaryTreeInorderTraversal.TreeNode root) {
+    public void flatten(TreeNode root) {
         if (root == null)
             return;
 

@@ -18,13 +18,6 @@ import java.util.List;
  * 输出: [1,2,3]
  */
 
-class TreeNode {
-     int val;
-     TreeNode left;
-     TreeNode right;
-     TreeNode(int x) { val = x; }
-}
-
 
 class N144preorderTraversal {
     public List<Integer> preorderTraversal(TreeNode root) {

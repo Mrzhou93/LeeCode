@@ -3,29 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="e731bed7-be7a-4fd1-9361-816ab26f1d86" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N1042gardenNoAdj.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/graph/N1042gardenNoAdj.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N1103pathInZigZagTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/tree/N1103pathInZigZagTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N1105minHeightShelves.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/dp/N1105minHeightShelves.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/N114flatten.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/N114flatten.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N136SingleNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N207canFinish.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N20ValidParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/stack/N20ValidParenthesis.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N210findOrder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N310findMinHeightTrees.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N332findItinerary.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/graph/N332findItinerary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N338countBits.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N401readBinaryWatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N547findCircleNum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N684findRedundantConnection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N743networkDelayTime.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N784letterCasePermutation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N841KeysAndRooms.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/stack/N841KeysAndRooms.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N947removeStones.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N94BinaryTreeInorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/N94BinaryTreeInorderTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N959regionBySlashes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/N144preorderTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/N144preorderTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/leetcode/N95generateTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/N95generateTrees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N990equationsPossible.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N997findJudge.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/topsort/N997findJudge.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeeCode/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -38,63 +20,46 @@
     <session id="326753173">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="54" />
+          <entry key="java" value="77" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="54" />
+          <entry key="JAVA" value="77" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="146" />
+          <entry key="java" value="4572" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="146" />
+          <entry key="JAVA" value="4572" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/N1104distributeCandies.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="524">
-              <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode/tree/N1103pathInZigZagTree.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="687">
-              <caret line="40" column="13" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/dp/N1105minHeightShelves.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/heap/N692topKFrequent.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+            <state relative-caret-position="801">
+              <caret line="65" column="28" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
+              <folding>
+                <element signature="e#1228#1229#0" expanded="true" />
+                <element signature="e#1300#1301#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -160,6 +125,21 @@
         <option value="$PROJECT_DIR$/leetcode/topsort/N997findJudge.java" />
         <option value="$PROJECT_DIR$/leetcode/graph/N332findItinerary.java" />
         <option value="$PROJECT_DIR$/leetcode/graph/N785isBipartite.java" />
+        <option value="$PROJECT_DIR$/leetcode/N114flatten.java" />
+        <option value="$PROJECT_DIR$/leetcode/TreeNode.java" />
+        <option value="$PROJECT_DIR$/leetcode/N144preorderTraversal.java" />
+        <option value="$PROJECT_DIR$/leetcode/N95generateTrees.java" />
+        <option value="$PROJECT_DIR$/leetcode/dp/N1043maxSumAfterPartitioning.java" />
+        <option value="$PROJECT_DIR$/leetcode/N146LRUCache.java" />
+        <option value="$PROJECT_DIR$/leetcode/trie/N208trie.java" />
+        <option value="$PROJECT_DIR$/leetcode/trie/WordDictionary.java" />
+        <option value="$PROJECT_DIR$/leetcode/trie/Trie.java" />
+        <option value="$PROJECT_DIR$/leetcode/trie/N648replaceWords.java" />
+        <option value="$PROJECT_DIR$/leetcode/trie/MapSum.java" />
+        <option value="$PROJECT_DIR$/leetcode/trie/N677MapSum.java" />
+        <option value="$PROJECT_DIR$/leetcode/N1023camelMatch.java" />
+        <option value="$PROJECT_DIR$/leetcode/string/N1023camelMatch.java" />
+        <option value="$PROJECT_DIR$/leetcode/heap/N692topKFrequent.java" />
       </list>
     </option>
   </component>
@@ -183,6 +163,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,24 +176,17 @@
               <item name="LeeCode" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeeCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeeCode" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="graph" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1561875145041" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562069197148" />
     <property name="create.test.in.the.same.root" value="true" />
   </component>
   <component name="RecentsManager">
@@ -232,13 +206,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.N39combinationSum">
-    <configuration name="N1105minHeightShelves" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.dp.N1105minHeightShelves" />
+  <component name="RunManager" selected="Application.MapSum">
+    <configuration name="MapSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.trie.MapSum" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.tree.*" />
+          <option name="PATTERN" value="leetcode.trie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -246,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N39combinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.N39combinationSum" />
+    <configuration name="N146LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.N146LRUCache" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.stack.*" />
+          <option name="PATTERN" value="leetcode.string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -259,12 +233,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N547findCircleNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.N547findCircleNum" />
+    <configuration name="N648replaceWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.trie.N648replaceWords" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.tree.*" />
+          <option name="PATTERN" value="leetcode.trie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,12 +246,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N947removeStones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.N947removeStones" />
+    <configuration name="Trie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.trie.Trie" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.tree.*" />
+          <option name="PATTERN" value="leetcode.trie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -285,12 +259,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N959regionBySlashes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.N959regionBySlashes" />
+    <configuration name="WordDictionary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.trie.WordDictionary" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.tree.*" />
+          <option name="PATTERN" value="leetcode.trie.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -299,19 +273,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.N547findCircleNum" />
-      <item itemvalue="Application.N947removeStones" />
-      <item itemvalue="Application.N959regionBySlashes" />
-      <item itemvalue="Application.N1105minHeightShelves" />
-      <item itemvalue="Application.N39combinationSum" />
+      <item itemvalue="Application.N146LRUCache" />
+      <item itemvalue="Application.Trie" />
+      <item itemvalue="Application.WordDictionary" />
+      <item itemvalue="Application.N648replaceWords" />
+      <item itemvalue="Application.MapSum" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.N39combinationSum" />
-        <item itemvalue="Application.N1105minHeightShelves" />
-        <item itemvalue="Application.N959regionBySlashes" />
-        <item itemvalue="Application.N947removeStones" />
-        <item itemvalue="Application.N547findCircleNum" />
+        <item itemvalue="Application.MapSum" />
+        <item itemvalue="Application.N648replaceWords" />
+        <item itemvalue="Application.Trie" />
+        <item itemvalue="Application.WordDictionary" />
+        <item itemvalue="Application.N146LRUCache" />
       </list>
     </recent_temporary>
   </component>
@@ -374,7 +348,8 @@
       <workItem from="1561256883722" duration="8439000" />
       <workItem from="1561443298810" duration="9799000" />
       <workItem from="1561548779089" duration="5174000" />
-      <workItem from="1561869880537" duration="5048000" />
+      <workItem from="1561869880537" duration="6276000" />
+      <workItem from="1562052129984" duration="13806000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1561869924789</created>
@@ -394,13 +369,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5128000" />
+    <option name="totallyTimeSpent" value="20162000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-69" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23200859" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23523094" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24896266" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -408,7 +383,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Messages" order="1" sideWeight="0.4978678" weight="0.12178771" />
+      <window_info anchor="bottom" id="Messages" order="1" sideWeight="0.4978678" weight="0.32513967" />
       <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="4" weight="0.1324647" />
@@ -429,7 +404,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
-      <window_info anchor="right" id="Run" order="10" visible="true" weight="0.17239527" />
+      <window_info anchor="right" id="Run" order="10" visible="true" weight="0.22180451" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -443,89 +418,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/N990equationsPossible.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="54" column="9" lean-forward="true" selection-start-line="54" selection-start-column="9" selection-end-line="54" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="30" column="48" selection-start-line="30" selection-start-column="48" selection-end-line="30" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/leetcode/heap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/heap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/tree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/bitmanipulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/stack/N207canFinish.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/stack/N20ValidParenthesis.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/tree/N114flatten.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/tree/N94BinaryTreeInorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-171">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/stack/N841KeysAndRooms.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="14" lean-forward="true" selection-start-column="14" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/stack/N207canFinish.java" />
+    <entry file="file://$PROJECT_DIR$/leetcode/tree/N114flatten.java" />
+    <entry file="file://$PROJECT_DIR$/leetcode/tree/N94BinaryTreeInorderTraversal.java" />
     <entry file="file://$PROJECT_DIR$/leetcode/N63uniquePathsWithObstacles.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="532">
@@ -533,13 +428,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/tree/N95generateTrees.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="29" column="3" lean-forward="true" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/tree/N95generateTrees.java" />
     <entry file="file://$PROJECT_DIR$/leetcode/N39combinationSum.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -551,13 +440,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/N78subsets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -684,9 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1045">
           <caret line="55" column="23" lean-forward="true" selection-start-line="55" selection-start-column="23" selection-end-line="55" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -711,10 +590,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/N1104distributeCandies.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/graph/N785isBipartite.java" />
+    <entry file="file://$PROJECT_DIR$/leetcode/dp/N1105minHeightShelves.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="524">
-          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
+        <state relative-caret-position="19">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -728,17 +608,179 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/graph/N785isBipartite.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/N1104distributeCandies.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="801">
-          <caret line="55" column="20" selection-start-line="55" selection-start-column="20" selection-end-line="55" selection-end-column="20" />
+        <state relative-caret-position="524">
+          <caret line="68" column="9" selection-start-line="68" selection-start-column="9" selection-end-line="68" selection-end-column="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/dp/N1105minHeightShelves.java">
+    <entry file="file://$PROJECT_DIR$/leetcode/N322coinChange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="33" column="27" lean-forward="true" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+        <state relative-caret-position="684">
+          <caret line="36" column="26" lean-forward="true" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/N94BinaryTreeInorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="30" selection-start-line="30" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/N114flatten.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="40" column="28" lean-forward="true" selection-start-line="40" selection-start-column="28" selection-end-line="40" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/N95generateTrees.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="29" column="3" selection-start-line="29" selection-start-column="3" selection-end-line="29" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/N144preorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/dp/N1043maxSumAfterPartitioning.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="36" column="50" lean-forward="true" selection-start-line="36" selection-start-column="50" selection-end-line="36" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/PriorityQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="147" column="11" selection-start-line="147" selection-start-column="11" selection-end-line="147" selection-end-column="11" />
+          <folding>
+            <element signature="e#5287#5288#0" expanded="true" />
+            <element signature="e#5345#5346#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="466" column="11" selection-start-line="466" selection-start-column="11" selection-end-line="466" selection-end-column="11" />
+          <folding>
+            <element signature="e#19103#19104#0" expanded="true" />
+            <element signature="e#19161#19162#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/LinkedHashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="223" column="17" lean-forward="true" selection-start-line="223" selection-start-column="17" selection-end-line="223" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/N146LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="16" lean-forward="true" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <folding>
+            <element signature="e#1020#1021#0" expanded="true" />
+            <element signature="e#1076#1077#0" expanded="true" />
+            <element signature="e#1113#1114#0" expanded="true" />
+            <element signature="e#1133#1134#0" expanded="true" />
+            <element signature="e#1227#1228#0" expanded="true" />
+            <element signature="e#1281#1282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/N78subsets.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="45" column="40" lean-forward="true" selection-start-line="45" selection-start-column="40" selection-end-line="45" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/trie/WordDictionary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="82" column="9" lean-forward="true" selection-start-line="82" selection-start-column="9" selection-end-line="82" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/trie/N648replaceWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-244">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/string/N1023camelMatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="43" column="44" selection-start-line="43" selection-start-column="44" selection-end-line="43" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/trie/MapSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="45" column="34" lean-forward="true" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/trie/Trie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="73" column="30" lean-forward="true" selection-start-line="73" selection-start-column="30" selection-end-line="73" selection-end-column="30" />
+          <folding>
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/heap/N692topKFrequent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="801">
+          <caret line="65" column="28" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
+          <folding>
+            <element signature="e#1228#1229#0" expanded="true" />
+            <element signature="e#1300#1301#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
