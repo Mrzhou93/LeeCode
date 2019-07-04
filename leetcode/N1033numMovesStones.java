@@ -55,7 +55,7 @@ public class N1033numMovesStones {
 
         System.out.println(Arrays.toString(s.numMovesStones(1, 2, 5))); // [1, 2]
         System.out.println(Arrays.toString(s.numMovesStones(4, 3, 2))); // [0, 0]
-//        System.out.println(Arrays.toString(s.numMovesStones(3, 5, 1))); // [1, 2]
+        System.out.println(Arrays.toString(s.numMovesStones(3, 5, 1))); // [1, 2]
     }
 
 }

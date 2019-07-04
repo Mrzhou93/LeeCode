@@ -1,6 +1,7 @@
-package leetcode;
+package leetcode.binarysearchtree;
 
 
+import leetcode.TreeNode;
 import sun.reflect.generics.tree.Tree;
 
 /**

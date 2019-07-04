@@ -1,4 +1,6 @@
-package leetcode;
+package leetcode.binarysearchtree;
+
+import leetcode.TreeNode;
 
 /**
  * 给出二叉搜索树的根节点，该二叉树的节点值各不相同，修改二叉树，使每个节点 node 的新值等于原树的值之和，
@@ -10,14 +12,10 @@ package leetcode;
  * 节点的右子树仅包含键大于节点键的节点。
  * 左右子树也必须是二叉搜索树。
  *
- *
  * 示例：
- *
- *
- *
+
  * 输入：[4,1,6,0,2,5,7,null,null,null,3,null,null,null,8]
  * 输出：[30,36,21,36,35,26,15,null,null,null,33,null,null,null,8]
- *
  *
  * 提示：
  *
@@ -26,26 +24,29 @@ package leetcode;
  * 给定的树为二叉搜索树。
  * */
 
+
 public class N1038bstToGst {
     public TreeNode bstToGst(TreeNode root) {
         cal(root, 0);
         return root;
     }
 
-    private int cal(TreeNode node, int lastVal){
-        if (node.right == null && node.left == null) {
-            node.val += lastVal;
-            return node.val;
+    public int cal(TreeNode root, int lastVal){
+        if (root.left == null && root.right == null){
+            root.val += lastVal;
+            return root.val;
         }
 
-        if (node.right != null)
-            lastVal = cal(node.right, lastVal);
+        if (root.right != null){
+            lastVal = cal(root.right, lastVal);
+        }
 
-        node.val += lastVal;
-        lastVal = node.val;
+        root.val += lastVal;
+        lastVal = root.val;
 
-        if (node.left != null)
-            lastVal = cal(node.left, lastVal);
+        if (root.left != null){
+            lastVal = cal(root.left, lastVal);
+        }
 
         return lastVal;
     }
