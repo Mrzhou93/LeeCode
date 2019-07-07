@@ -3,12 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e731bed7-be7a-4fd1-9361-816ab26f1d86" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N1033numMovesStones.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/N1033numMovesStones.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N1038bstToGst.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/binarysearchtree/N1038bstToGst.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N530getMinimumDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/binarysearchtree/N530getMinimumDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/tree/N1103pathInZigZagTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/tree/N1103pathInZigZagTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeeCode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeeCode/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,34 +15,35 @@
     <session id="326753173">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="97" />
+          <entry key="java" value="102" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="97" />
+          <entry key="JAVA" value="102" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.2" value="2" />
-          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="8478" />
+          <entry key="java" value="10383" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8478" />
+          <entry key="JAVA" value="10383" />
         </counts>
       </usages-collector>
     </session>
@@ -56,12 +51,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/leetcode/recursion/N894allPossiableBST.java">
+        <entry file="file://$PROJECT_DIR$/leetcode/N5188corpFlightBookings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+            <state relative-caret-position="232">
+              <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#871#942#0" />
               </folding>
             </state>
           </provider>
@@ -97,9 +92,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/leetcode/bitmanipulation/N136SingleNumber.java" />
-        <option value="$PROJECT_DIR$/leetcode/set/N136SingleNumber.java" />
-        <option value="$PROJECT_DIR$/leetcode/N78subsets.java" />
         <option value="$PROJECT_DIR$/leetcode/N20ValidParenthesis.java" />
         <option value="$PROJECT_DIR$/leetcode/unionfind/N547findCircleNum.java" />
         <option value="$PROJECT_DIR$/leetcode/unionfind/N990equationsPossible.java" />
@@ -148,6 +140,9 @@
         <option value="$PROJECT_DIR$/leetcode/queue/N933RecentCounter.java" />
         <option value="$PROJECT_DIR$/leetcode/queue/RecentCounter.java" />
         <option value="$PROJECT_DIR$/leetcode/recursion/N894allPossiableBST.java" />
+        <option value="$PROJECT_DIR$/leetcode/N5117defangIPaddr.java" />
+        <option value="$PROJECT_DIR$/leetcode/N5119delNodes.java" />
+        <option value="$PROJECT_DIR$/leetcode/N5188corpFlightBookings.java" />
       </list>
     </option>
   </component>
@@ -157,7 +152,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="1912" />
     <option name="y" value="-69" />
     <option name="width" value="1936" />
@@ -172,7 +167,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,12 +183,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562248891505" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562488046643" />
     <property name="create.test.in.the.same.root" value="true" />
   </component>
   <component name="RecentsManager">
@@ -215,7 +210,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RecentCounter">
+  <component name="RunManager" selected="Application.N5188corpFlightBookings">
     <configuration name="N1033numMovesStones" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.N1033numMovesStones" />
       <module name="LeeCode" />
@@ -229,12 +224,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N779kthGrammar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.recursion.N779kthGrammar" />
+    <configuration name="N5117defangIPaddr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.N5117defangIPaddr" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.recursion.*" />
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="N5188corpFlightBookings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.N5188corpFlightBookings" />
+      <module name="LeeCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -248,19 +256,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="N894allPossiableBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.recursion.N894allPossiableBST" />
-      <module name="LeeCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -282,19 +277,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.N779kthGrammar" />
-      <item itemvalue="Application.N894allPossiableBST" />
       <item itemvalue="Application.N894allPossiableBST (1)" />
       <item itemvalue="Application.N1033numMovesStones" />
       <item itemvalue="Application.RecentCounter" />
+      <item itemvalue="Application.N5117defangIPaddr" />
+      <item itemvalue="Application.N5188corpFlightBookings" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.N5188corpFlightBookings" />
+        <item itemvalue="Application.N5117defangIPaddr" />
         <item itemvalue="Application.RecentCounter" />
         <item itemvalue="Application.N1033numMovesStones" />
         <item itemvalue="Application.N894allPossiableBST (1)" />
-        <item itemvalue="Application.N894allPossiableBST" />
-        <item itemvalue="Application.N779kthGrammar" />
       </list>
     </recent_temporary>
   </component>
@@ -361,7 +356,9 @@
       <workItem from="1562052129984" duration="14653000" />
       <workItem from="1562146478486" duration="1588000" />
       <workItem from="1562219511287" duration="12451000" />
-      <workItem from="1562243245592" duration="5141000" />
+      <workItem from="1562243245592" duration="5178000" />
+      <workItem from="1562307321655" duration="413000" />
+      <workItem from="1562466524848" duration="9198000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1561869924789</created>
@@ -377,17 +374,24 @@
       <option name="project" value="LOCAL" />
       <updated>1561869945796</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update">
+      <created>1562248920670</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562248920670</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40189000" />
+    <option name="totallyTimeSpent" value="49837000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-69" width="1936" height="1056" extended-state="0" />
+    <frame x="1912" y="-69" width="1936" height="1056" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24543501" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25295383" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24896266" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -416,7 +420,7 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
-      <window_info anchor="right" id="Run" order="10" visible="true" weight="0.21535982" />
+      <window_info active="true" anchor="right" id="Run" order="10" visible="true" weight="0.21750806" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -430,34 +434,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/leetcode/bitmanipulation/N136SingleNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/set/N136SingleNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="22" selection-start-line="22" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/bitmanipulation/N338countBits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="14" lean-forward="true" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/bitmanipulation/N401readBinaryWatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="23" column="2" lean-forward="true" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/bitmanipulation/N784letterCasePermutation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="836">
@@ -726,13 +702,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/dp/N894allPossiableBST.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/dp/N894allPossiableBST.java" />
     <entry file="file://$PROJECT_DIR$/leetcode/N1033numMovesStones.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="950">
@@ -751,18 +721,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="497">
           <caret line="47" column="28" lean-forward="true" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#758#759#0" expanded="true" />
-            <element signature="e#799#800#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="191" lean-forward="true" selection-start-line="191" selection-end-line="191" />
         </state>
       </provider>
     </entry>
@@ -775,10 +733,51 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/recursion/N894allPossiableBST.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        <state relative-caret-position="437">
+          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/N5117defangIPaddr.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="198" column="6" selection-start-line="198" selection-start-column="6" selection-end-line="198" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_201/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="260" column="12" selection-start-line="260" selection-start-column="12" selection-end-line="260" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/N5119delNodes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/N5188corpFlightBookings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="32" column="30" lean-forward="true" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+          <folding>
+            <element signature="e#871#942#0" />
           </folding>
         </state>
       </provider>
