@@ -63,7 +63,6 @@ public class N648replaceWords {
             node = node.children[c-'a'];
         }
         return index;
-
     }
 
     private void add(List<String> dict) {
