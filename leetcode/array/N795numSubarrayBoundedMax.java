@@ -1,6 +1,7 @@
 package leetcode.array;
 
 import java.util.Arrays;
+import java.util.LinkedHashMap;
 
 /**
  * 给定一个元素都是正整数的数组A ，正整数 L 以及 R (L <= R)。
@@ -57,11 +58,14 @@ public class N795numSubarrayBoundedMax {
             }
         }
         System.out.println(ans);
+
         return ans;
     }
 
     public static void main(String[] args) {
         N795numSubarrayBoundedMax s = new N795numSubarrayBoundedMax();
+
+        System.out.println("\101");
 
         System.out.println(s.numSubarrayBoundedMax(new int[]{2, 1, 4, 3}, 2, 3));
     }
