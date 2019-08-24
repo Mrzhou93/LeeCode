@@ -34,7 +34,7 @@ public class N714maxProfit {
         for (int i = 1; i < prices.length; i++){
             if (prices[i] < min){
                 min = prices[i];
-            }else if (prices[i] > min + fee){
+            } else if (prices[i] > min + fee){
                 profit += prices[i] - min - fee;
                 min = prices[i] - fee;
             }

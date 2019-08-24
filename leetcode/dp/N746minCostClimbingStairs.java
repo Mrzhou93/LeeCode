@@ -35,7 +35,7 @@ class N746minCostClimbingStairs {
 
 //        System.out.println("====================");
 
-        return Math.min(dp[cost.length - 2], dp[cost.length-1]);
+        return Math.min(dp[cost.length - 2], dp[cost.length - 1]);
     }
 
     public int minCostClimbingStairs(int[] cost) {
