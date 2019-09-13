@@ -35,6 +35,7 @@ public class N1029twoCitySchedCost {
 
         Arrays.sort(costs, (o1, o2) -> o1[0] - o1[1] < o2[0] - o2[1]? 1: -1);
 
+        System.out.println(Arrays.deepToString(costs));
 //        for (int i = 0; i < costs.length; i++)
 //            System.out.println("["+costs[i][0]+","+costs[i][1]+"]");
 

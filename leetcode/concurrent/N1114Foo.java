@@ -64,7 +64,6 @@ class Foo {
             firshFinish = true;
             resource.notifyAll();
         }
-
     }
 
     public void second(Runnable printSecond) throws InterruptedException {
