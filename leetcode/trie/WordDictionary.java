@@ -45,11 +45,11 @@ class WordDictionary {
         Trie cur = root;
         char[] chs = word.toCharArray();
         for(char c : chs){
-            Trie next = cur.next[c-'a'];
+            Trie next = cur.next[c - 'a'];
             if(next == null){
-                cur.next[c-'a']=new Trie();
+                cur.next[c - 'a'] = new Trie();
             }
-            cur = cur.next[c-'a'];
+            cur = cur.next[c - 'a'];
         }
         cur.isWord = true;
     }

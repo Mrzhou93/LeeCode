@@ -55,10 +55,12 @@ public class N648replaceWords {
         TrieNode node = root;
         int index = 0;
         for(char c : s.toCharArray()){
-            if(node.children[c-'a'] == null && !node.isLeaf)
+            if(node.children[c-'a'] == null && !node.isLeaf) {
                 return 0;
-            if(node.isLeaf)
+            }
+            if(node.isLeaf) {
                 return index;
+            }
             index++;
             node = node.children[c-'a'];
         }

@@ -28,18 +28,20 @@ public class N581findUnsortedSubarray {
         int[] tmp = nums.clone();
         Arrays.sort(tmp);
         int begin = 0, end = len - 1;
-        while(begin < end){
+        while(begin < end) {
             int flag = 1;
-            if(nums[begin] == tmp[begin]){
+            if (nums[begin] == tmp[begin]) {
                 begin++;
                 flag = 0;
             }
 
-            if(nums[end] == tmp[end]){
+            if (nums[end] == tmp[end]) {
                 end--;
                 flag = 0;
             }
-            if(flag == 1) break;
+            if (flag == 1) {
+                break;
+            }
         }
         return end - begin>0? end - begin + 1: 0;
     }

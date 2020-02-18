@@ -35,13 +35,12 @@ package leetcode.ainterview.mi;
  * 样例输出
  * 3245176
  */
-import java.util.Scanner;
-import java.util.Stack;
+import java.util.*;
 
 public class Main2 {
 
 
-    /*请完成下面这个函数，实现题目要求的功能
+    /** 请完成下面这个函数，实现题目要求的功能
     当然，你也可以不按照下面这个模板来作答，完全按照自己的想法来 ^-^
     ******************************开始写代码******************************/
     static String solution(String input) {
@@ -68,8 +67,6 @@ public class Main2 {
 
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
-//        System.out.println(solution("1(2(3,4(,5)),6(7,)))"));
-
         String res;
 
         String _input;

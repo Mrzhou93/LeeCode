@@ -54,9 +54,9 @@ class N63uniquePathsWithObstacles {
             for (int j = 1; j < obstacleGrid[0].length; j++){
                 if (obstacleGrid[i][j] == 1){
                     dp[i][j] = 0;
-                } else
+                } else {
                     dp[i][j] = dp[i][j - 1] + dp[i - 1][j];
-
+                }
             }
         }
         return dp[obstacleGrid.length - 1][obstacleGrid[0].length - 1];

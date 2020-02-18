@@ -1,4 +1,4 @@
-package leetcode.ainterview.tencent;
+package leetcode.ainterview.tencent.a;
 
 import java.util.Arrays;
 import java.util.Comparator;

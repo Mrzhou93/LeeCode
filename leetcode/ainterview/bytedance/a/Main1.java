@@ -1,4 +1,4 @@
-package leetcode.ainterview.bytedance;
+package leetcode.ainterview.bytedance.a;
 
 import java.util.Scanner;
 
