@@ -1,4 +1,31 @@
+# Please see https://github.com/github/gitignore for some nice presets
 
-*.class
-*.class
+# Output directories
+build/
+out/
+target/
+bin/
+
+# Mac OS X files
+.DS_Store
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse files
+.settings
+.classpath
+.project
+
+# Log directory
+logs/
+
+# vim files
+.*.sw[a-z]
+*.un~
+
+# Java class files
 *.class

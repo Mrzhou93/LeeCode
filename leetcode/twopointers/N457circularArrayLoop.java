@@ -1,9 +1,5 @@
 package leetcode.twopointers;
 
-import com.sun.org.apache.bcel.internal.generic.ARRAYLENGTH;
-
-import java.lang.reflect.Array;
-import java.util.Arrays;
 
 /**
  * 给定一个含有正整数和负整数的环形数组 nums。 如果某个索引中的数 k 为正数，则向前移动 k 个索引。
