@@ -14,6 +14,7 @@ bin/
 *.iml
 *.ipr
 *.iws
+*.xml
 
 # Eclipse files
 .settings
