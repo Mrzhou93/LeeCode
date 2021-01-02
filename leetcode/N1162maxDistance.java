@@ -1,9 +1,7 @@
 package leetcode;
 
-import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
-import java.util.Queue;
 
 /**
  * 你现在手里有一份大小为 N x N 的『地图』（网格） grid，上面的每个『区域』（单元格）都用 0 和 1 标记好了。其中 0 代表海洋，1 代表陆地，你知道距离陆地区域最远的海洋区域是是哪一个吗？请返回该海洋区域到离它最近的陆地区域的距离。
@@ -34,7 +32,7 @@ import java.util.Queue;
  * grid[i][j] 不是 0 就是 1
  */
 
-public class N5053maxDistance {
+public class N1162maxDistance {
     int[] dx = new int[]{0, 0, 1, -1};
     int[] dy = new int[]{1, -1, 0, 0};
 
@@ -73,7 +71,7 @@ public class N5053maxDistance {
     }
 
     public static void main(String[] args) {
-        N5053maxDistance s = new N5053maxDistance();
+        N1162maxDistance s = new N1162maxDistance();
 
         System.out.println(s.maxDistance(new int[][]{
                 {1, 0, 1},

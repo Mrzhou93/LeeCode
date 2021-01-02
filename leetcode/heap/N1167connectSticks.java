@@ -1,8 +1,7 @@
-package leetcode;
+package leetcode.heap;
 
 import java.util.Arrays;
 import java.util.PriorityQueue;
-import java.util.Stack;
 
 /**
  * 为了装修新房，你需要加工一些长度为正整数的棒材 sticks。
@@ -30,7 +29,7 @@ import java.util.Stack;
  * 1 <= sticks[i] <= 10^4
  */
 
-public class N5062connectSticks {
+public class N1167connectSticks {
     public int connectSticks(int[] sticks) {
         Arrays.sort(sticks);
         int ans = 0;
@@ -50,7 +49,7 @@ public class N5062connectSticks {
     }
 
     public static void main(String[] args) {
-        N5062connectSticks s = new N5062connectSticks();
+        N1167connectSticks s = new N1167connectSticks();
 
         System.out.println(s.connectSticks(new int[]{2, 4, 3}));
         System.out.println(s.connectSticks(new int[]{1, 8, 3, 5}));

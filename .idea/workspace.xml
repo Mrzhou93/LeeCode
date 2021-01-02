@@ -4,24 +4,10 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e731bed7-be7a-4fd1-9361-816ab26f1d86" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e731bed7-be7a-4fd1-9361-816ab26f1d86" name="Default Changelist" comment="code adjust">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N127ladderLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/N127ladderLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N456find132pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/N456find132pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/N89grayCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/N89grayCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N1122relativeSortArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/array/N1122relativeSortArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N670maximumSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/array/N670maximumSwap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N873lenLongestFibSubseq.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/array/N873lenLongestFibSubseq.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/array/N954canReorderDoubled.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/array/N954canReorderDoubled.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/binarysearchtree/N530getMinimumDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/binarysearchtree/N530getMinimumDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/dp/N1043maxSumAfterPartitioning.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/dp/N1043maxSumAfterPartitioning.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/tree/N129sumNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/tree/N129sumNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/tree/N199rightSideView.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/tree/N199rightSideView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/tree/N95generateTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/tree/N95generateTrees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/trie/Trie.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/trie/Trie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/twopointers/N457circularArrayLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/twopointers/N457circularArrayLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/N5053maxDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/N1162maxDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetcode/N5062connectSticks.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/heap/N1167connectSticks.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -291,12 +277,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N456find132pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.N456find132pattern" />
+    <configuration name="N1162maxDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.N1162maxDistance" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="leetcode.heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -304,12 +290,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="N5053maxDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.N5053maxDistance" />
+    <configuration name="N456find132pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.N456find132pattern" />
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="leetcode.heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,7 +308,7 @@
       <module name="LeeCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.*" />
+          <option name="PATTERN" value="leetcode.heap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -330,13 +316,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="class" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -344,15 +332,15 @@
     <list>
       <item itemvalue="Application.Main2" />
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.N5053maxDistance" />
       <item itemvalue="Application.N682calPoints" />
       <item itemvalue="Application.N456find132pattern" />
+      <item itemvalue="Application.N1162maxDistance" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.N456find132pattern" />
         <item itemvalue="Application.N682calPoints" />
-        <item itemvalue="Application.N5053maxDistance" />
+        <item itemvalue="Application.N1162maxDistance" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main" />
       </list>
@@ -452,6 +440,7 @@
       <workItem from="1568094056085" duration="30403000" />
       <workItem from="1568374264862" duration="1068000" />
       <workItem from="1609584450615" duration="1116000" />
+      <workItem from="1609586709825" duration="298000" />
     </task>
     <task id="LOCAL-00001" summary="Update">
       <created>1561869924789</created>
@@ -530,6 +519,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update" />
