@@ -1,7 +1,6 @@
 package leetcode.tree;
 
 import leetcode.TreeNode;
-import sun.reflect.generics.tree.Tree;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -38,8 +37,9 @@ public class N199rightSideView {
         if (root == null)
             return;
 
-        if (depth == ans.size())
+        if (depth == ans.size()) {
             ans.add(root.val);
+        }
 
         level(ans, root.right, depth + 1);
         level(ans, root.left, depth + 1);

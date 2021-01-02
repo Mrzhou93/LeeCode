@@ -1,8 +1,5 @@
 package leetcode.array;
 
-import jdk.management.resource.internal.inst.FileOutputStreamRMHooks;
-
-import java.lang.management.PlatformLoggingMXBean;
 import java.util.Arrays;
 
 /**

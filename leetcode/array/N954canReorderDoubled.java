@@ -1,11 +1,5 @@
 package leetcode.array;
 
-import jdk.management.resource.internal.inst.FileOutputStreamRMHooks;
-import leetcode.sort.N945minIncrementForUnique;
-
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.Map;
 
 /**
  * 给定一个长度为偶数的整数数组 A，只有对 A 进行重组后可以满足 “对于每个 0 <= i < len(A) / 2，都有 A[2 * i + 1] = 2 * A[2 * i]” 时，返回 true；否则，返回 false。

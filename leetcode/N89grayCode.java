@@ -1,7 +1,5 @@
 package leetcode;
 
-import org.omg.Messaging.SYNC_WITH_TRANSPORT;
-
 import java.util.ArrayList;
 import java.util.List;
 
